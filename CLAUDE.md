@@ -29,10 +29,32 @@ Também estão na mesa:
 ## Foco atual (17/11/2026)
 Casa Live no modelo LiveHouse: mês 1 só comissão, mês 2 em diante fixo + comissão. A Vyre (só para captar creators e produzir vídeos) e a Central Marketplaces ficam para depois.
 
+## Estrutura no Google Drive (pasta "Casa Live" `107wGjd6t81x43IFFQVbmSMx7Vz5zhYfJ`)
+| Item | ID |
+|---|---|
+| 00 Comece aqui — Plano Mestre (Doc) | `1ZlpAlmgtWaRJYlui7yUssfAueFj59iwAkCIZ-knXc2E` |
+| 01 Estratégia (pasta) | `1SW3PvkUXi-67cYzm4eaXVrOG3i-tiYux` |
+| 02 Comercial (pasta), Playbook do Cliente `1mKGVPnGi1fstxFQGwMivk6wePtzP_wSVThQWCFSvAlY` | `1abRtZrMQo-r_K86aYkFzTdPqrexILjpf` |
+| 03 Operação (pasta), Manual da Live `13Wbmus5rerJ4fVa6FP2EyrmkuwtSKlIk901ArUKt_5w` | `1TEjEqFTo-ABf6pZ1iNCxFzR14dt2a44p` |
+| 04 Dados e Relatórios (pasta), Relatórios e KPIs `1NJqYhYoP4oMkrBEpd96VlTtTi6QcYNTJtuoXpFZsQPc` | `1XmWQ7zHTnqiWFq6vAEmJtBR-KYbUMoyd` |
+| 05 Financeiro e Jurídico (pasta), doc `1TRHF41ttY_sEVp3kVuLcXLQuZpMcGfupYtbC6K9wxqc` | `1U0Sjh3ho8e8PZNmSoZQCMtdC2Zsp9Xv8` |
+| 06 Automação e Integrações (pasta), doc `1SxzGklRdzh5AfnpMMK8Ktpq6DwktcYF1zG4pHlA7RhY` | `1Tr203So05XuVRbJvr9_jaAItTy04F1T5` |
+| 07 Marketing (pasta) | `1OUrAZWUfpSKntoRpmvKUylsDTzpiqdJz` |
+| 08 Clientes (pasta, uma subpasta por cliente) | `1Ojz82TFoazfQ9s1ZfYkab1K0QtekJxB4` |
+| 99 Fontes (pasta: transcrições, briefing, PDFs) | `1lim_OjmmIgUvGTozCsJBHRqIC6TSPvMj` |
+
+A fonte da verdade dos textos é `docs/` neste repositório. Ao alterar um documento, atualizar também o Doc no Drive.
+
 ## Estrutura do repositório
 - `docs/decisoes.md`: registro de decisões com data.
 - `docs/01-diagnostico.md`: leitura crítica inicial, com conflitos e perguntas.
-- `docs/02-plano-casa-live.md`: plano da fase de validação (comercial, operação, estúdio, cronograma, controles).
+- `docs/02-plano-casa-live.md`: plano da fase de validação (primeira versão; substituído pelo plano mestre).
+- `docs/00-plano-mestre.md`: **documento-mãe** (ideia, modelo, mapa da operação, roadmap, metas, riscos).
+- `docs/10-playbook-cliente.md`: jornada do cliente E0 a E9, com checklists e modelos de mensagem.
+- `docs/20-operacao-live.md`: estúdio, hosts, ficha de produto, roteiro, checklists, incidentes, vídeos curtos.
+- `docs/30-relatorios-kpis.md`: indicadores, relatórios D+1, semanal e mensal, painel interno.
+- `docs/40-financeiro-juridico.md`: CNPJ, acordo de sócios, custos e aportes, comissão, contratos.
+- `docs/50-automacao-integracoes.md`: arquitetura, catálogo de automações A1 a A12, APIs.
 
 ## Regras de trabalho
 - Responder em português.
