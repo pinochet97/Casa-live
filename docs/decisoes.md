@@ -11,3 +11,5 @@
 | 17/11/2026 | Comissão do mês de teste: **10%** | Kaio |
 | 17/11/2026 | CNPJ em abertura, só em nome do Felipe. Sociedade: Kaio e Felipe. A Duda entra pelo lado do Kaio, não como sócia separada | Kaio |
 | 17/11/2026 | Sem aporte inicial: os custos são registrados e o dinheiro entra conforme a necessidade | Kaio |
+| 17/11/2026 | **Duda cuida de toda a operação** no dia a dia. **Felipe cuida do comercial.** Kaio fica com estratégia e tecnologia | Kaio |
+| 17/11/2026 | O branch `main` do GitHub é a base compartilhada de todas as sessões | Kaio |

@@ -3,9 +3,9 @@
 Este repositório é a "base de conhecimento" da operação. Toda sessão do Claude deve ler este arquivo primeiro, depois `docs/`.
 
 ## Quem é quem
-- **Kaio Guerreiro** (@kaioguerreiro_): sócio de gestão, operação e tecnologia (sistemas, automação, IA). Ligado à **Vyre UGC** (base de 5.000+ creators, segundo ele).
-- **Felipe Percebão** ("Perce", @felipercebao_): sócio comercial e vendas. Trabalha numa empresa de fábrica/importação e sai no fim de dez/2026. Mora em Guarulhos. Marca Tucano Decor.
-- **Duda** ("Amor ❤️" no WhatsApp do Kaio): parceira do Kaio. Participa das ideias e seria host. Não está definido se é sócia.
+- **Kaio Guerreiro** (@kaioguerreiro_): sócio. Estratégia, tecnologia, automações e integrações (APIs). Ligado à **Vyre UGC** (base de 5.000+ creators, segundo ele).
+- **Felipe Percebão** ("Perce", @felipercebao_): sócio. **Responsável pelo comercial** (prospecção, fechamento, relacionamento com as marcas). Trabalha numa empresa de fábrica/importação e sai no fim de dez/2026. Mora em Guarulhos. Marca Tucano Decor.
+- **Duda** ("Amor ❤️" no WhatsApp do Kaio): parceira do Kaio, pelo lado do Kaio na sociedade. **Responsável por toda a operação no dia a dia** (desde 17/11/2026): clientes, lives, agenda, relatórios, financeiro do dia a dia. Também é host.
 - **Sergio**: ligado à Vyre. Parceria "By Vyre" a conversar depois.
 - **Gustavo (Paparazzo)**: investidor/empresário que quer colocar de 1 a 3 empresas na Casa Live.
 
@@ -58,9 +58,12 @@ A fonte da verdade dos textos é `docs/` neste repositório. Ao alterar um docum
 
 ## Sessões do Claude
 Cada área tem uma sessão fixa: Central, Financeiro, Comercial e Clientes, Operação, Automação. Veja `docs/sessoes.md` e `areas/<área>/README.md`.
-**Toda sessão termina com commit + push**, para as outras sessões enxergarem as mudanças.
+**Toda sessão termina com commit + push no branch `main`**, para as outras sessões enxergarem as mudanças.
 
 ## Regras de trabalho
 - Responder em português.
+- **Sempre que houver uma ação humana** (abrir conversa, criar conta, clicar em algo, mandar mensagem), diga **quem** faz e dê o **passo a passo numerado**, específico (onde clicar, o que digitar). Nunca "configure X" de forma vaga.
+- **Com a Duda, seja ainda mais detalhista:** explique o que fazer, onde, em que ordem e como saber que deu certo. Uma tarefa por vez, com checklist. Ela cuida de toda a operação.
+- Identifique quem está falando (Kaio, Duda ou Felipe) e adapte: Duda = operação, Felipe = comercial, Kaio = estratégia e tecnologia.
 - Não inventar números: separar **fato** (dito nas conversas), **hipótese** e **simulação**.
 - Decisões tomadas vão para `docs/decisoes.md`, com data.

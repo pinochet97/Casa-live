@@ -30,8 +30,8 @@
 | Quem | Papel | Responsável por |
 |---|---|---|
 | **Felipe** | Comercial | Prospecção, fechamento, relacionamento com as marcas, host, CNPJ (titular) |
-| **Kaio** | Gestão, operação e tecnologia | Processos, automações, dados, relatórios, financeiro, host |
-| **Duda** (pelo lado do Kaio) | Host e conteúdo | Lives, vídeos curtos, cenário |
+| **Duda** (pelo lado do Kaio) | **Operação (tudo do dia a dia)** | Onboarding, agenda, fichas, lives, relatórios, cobrança, controles, host |
+| **Kaio** | Estratégia e tecnologia | Plano, decisões, automações, integrações e APIs, dados, host |
 | Primo do Kaio, amigos | Hosts e moderadores eventuais | Cobrir escala |
 
 > ⚠️ **Atenção jurídica:** o CNPJ está só em nome do Felipe. Até o Kaio entrar no contrato social, assinar um **acordo de sócios** que defina % de participação, divisão de lucro, quem decide o quê, aportes, saída de sócio e propriedade de marca, contas e clientes. Detalhes em `40-financeiro-juridico`.
