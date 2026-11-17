@@ -56,6 +56,10 @@ A fonte da verdade dos textos é `docs/` neste repositório. Ao alterar um docum
 - `docs/40-financeiro-juridico.md`: CNPJ, acordo de sócios, custos e aportes, comissão, contratos.
 - `docs/50-automacao-integracoes.md`: arquitetura, catálogo de automações A1 a A12, APIs.
 
+## Sessões do Claude
+Cada área tem uma sessão fixa: Central, Financeiro, Comercial e Clientes, Operação, Automação. Veja `docs/sessoes.md` e `areas/<área>/README.md`.
+**Toda sessão termina com commit + push**, para as outras sessões enxergarem as mudanças.
+
 ## Regras de trabalho
 - Responder em português.
 - Não inventar números: separar **fato** (dito nas conversas), **hipótese** e **simulação**.
