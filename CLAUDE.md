@@ -26,9 +26,13 @@ Também estão na mesa:
 - PDF Vyre UGC Casa de Lives, Plano Operacional: `1xYc2yX22HjBTGXUPJKr7uMul3Yj-4EEWd9OruKNaEbg`
 - PDF Central Marketplaces, Proposta: `1DNX8irTTJ--u67UvqVs5IvsBuaUEy4URoMuI4eB87Ns`
 
+## Foco atual (17/11/2026)
+Casa Live no modelo LiveHouse: mês 1 só comissão, mês 2 em diante fixo + comissão. A Vyre (só para captar creators e produzir vídeos) e a Central Marketplaces ficam para depois.
+
 ## Estrutura do repositório
-- `docs/01-diagnostico.md`: leitura crítica do que foi discutido, conflitos e perguntas em aberto.
-- (próximos) estratégia, financeiro, processos, CRM, integrações.
+- `docs/decisoes.md`: registro de decisões com data.
+- `docs/01-diagnostico.md`: leitura crítica inicial, com conflitos e perguntas.
+- `docs/02-plano-casa-live.md`: plano da fase de validação (comercial, operação, estúdio, cronograma, controles).
 
 ## Regras de trabalho
 - Responder em português.
