@@ -35,6 +35,7 @@ Casa Live no modelo LiveHouse: mês 1 só comissão, mês 2 em diante fixo + com
 | 00 Comece aqui — Plano Mestre (Doc) | `1ZlpAlmgtWaRJYlui7yUssfAueFj59iwAkCIZ-knXc2E` |
 | 01 Estratégia (pasta) | `1SW3PvkUXi-67cYzm4eaXVrOG3i-tiYux` |
 | 02 Comercial (pasta), Playbook do Cliente `1mKGVPnGi1fstxFQGwMivk6wePtzP_wSVThQWCFSvAlY` | `1abRtZrMQo-r_K86aYkFzTdPqrexILjpf` |
+| Casa Live — CRM (planilha, na pasta 02) | `1pyNO4KHIYvxK9u9UO8HJghY4WT6obF5gCSq-XM6RryU` |
 | 03 Operação (pasta), Manual da Live `13Wbmus5rerJ4fVa6FP2EyrmkuwtSKlIk901ArUKt_5w` | `1TEjEqFTo-ABf6pZ1iNCxFzR14dt2a44p` |
 | 04 Dados e Relatórios (pasta), Relatórios e KPIs `1NJqYhYoP4oMkrBEpd96VlTtTi6QcYNTJtuoXpFZsQPc` | `1XmWQ7zHTnqiWFq6vAEmJtBR-KYbUMoyd` |
 | 05 Financeiro e Jurídico (pasta), doc `1TRHF41ttY_sEVp3kVuLcXLQuZpMcGfupYtbC6K9wxqc` | `1U0Sjh3ho8e8PZNmSoZQCMtdC2Zsp9Xv8` |
