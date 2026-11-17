@@ -36,17 +36,15 @@
 
 > ⚠️ **Atenção jurídica:** o CNPJ está só em nome do Felipe. Até o Kaio entrar no contrato social, assinar um **acordo de sócios** que defina % de participação, divisão de lucro, quem decide o quê, aportes, saída de sócio e propriedade de marca, contas e clientes. Detalhes em `40-financeiro-juridico`.
 
-## 3. Modelo comercial [DECIDIDO + PROPOSTA]
+## 3. Modelo comercial [DECIDIDO + A DEFINIR]
 | Fase do cliente | Cobrança |
 |---|---|
-| **Mês 1, teste** [DECIDIDO] | **Só 10% de comissão** sobre as vendas das nossas lives, líquidas de cancelamentos e devoluções |
-| **Mês 2 em diante** [DECIDIDO] | Fixo + comissão |
+| **Mês 1, teste** [DECIDIDO] | **Só comissão** sobre as vendas das nossas lives, líquidas de cancelamentos e devoluções. Referência: **10%**, mas a taxa é **combinada com cada cliente** |
+| **Mês 2 em diante** [DECIDIDO] | Fixo + comissão. **Valores ainda não definidos** e **negociados por cliente** (fixo, horas por mês e taxa de comissão) |
 
-| Plano mês 2 [PROPOSTA] | Horas/mês | Fixo | Comissão |
-|---|---|---|---|
-| Start | 40 h | R$ 3.000 | 8–10% |
-| Pro (com host contratado) | 80 h | R$ 4.000 | 10% |
-| Adicionais | Vídeos curtos extras, cortes, cenário personalizado | sob orçamento | — |
+**Planos do mês 2 [A DEFINIR]:** ainda não há tabela de preços. Cada cliente terá o seu fixo, as suas horas e a sua comissão, combinados no fim do teste com base nos números dele. A única referência de mercado é a LiveHouse (R$ 4 mil + 10% por 80 h), que serve só como comparação. As condições de cada cliente ficam registradas no CRM (aba Leads) e no acordo ou contrato dele.
+
+Adicionais (vídeos curtos extras, cortes, cenário personalizado): sob orçamento.
 
 ## 4. Mapa da operação
 ```

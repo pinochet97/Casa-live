@@ -44,7 +44,7 @@ O CNPJ está só com o Felipe, então o acordo protege os dois. Ele precisa defi
 - Outros
 
 ## 4. Receita e comissão
-- **Mês 1 (teste):** 10% sobre o GMV líquido das nossas lives.
+- **Mês 1 (teste):** comissão sobre o GMV líquido das nossas lives. Referência de 10%, mas a taxa é combinada com cada cliente (ver CRM, aba Leads). Os valores do mês 2 (fixo, horas, comissão) ainda não foram definidos e são negociados por cliente.
 - **Mês 2 em diante:**
   - fixo cobrado no início do mês (pré-pago);
   - comissão cobrada no fechamento.
@@ -72,7 +72,7 @@ Convenções: texto azul = campo para digitar; texto preto = fórmula (não digi
 ## 6. Contratos (modelos a criar na pasta 05)
 1. **Acordo de teste (30 dias, só comissão)**, com estes pontos:
    - escopo: nº de lives, duração, conta da marca;
-   - comissão de 10% sobre o GMV líquido atribuído às nossas lives, com fonte = painel TikTok Shop e conferência conjunta;
+   - comissão de [X]% (combinada com o cliente; referência 10%) sobre o GMV líquido atribuído às nossas lives, com fonte = painel TikTok Shop e conferência conjunta;
    - pagamento até o dia 5;
    - responsabilidades do cliente: preço, estoque, envio, nota, pós-venda, veracidade das informações do produto;
    - nossas responsabilidades: estrutura, host, moderação, roteiro, relatório;
@@ -82,6 +82,6 @@ Convenções: texto azul = campo para digitar; texto preto = fórmula (não digi
    - acesso à conta: concedido e revogável pelo cliente, sem senha pessoal;
    - **condições do mês 2** já informadas;
    - encerramento livre ao fim do teste.
-2. **Contrato de prestação de serviço (plano Start/Pro):** de 3 a 6 meses, horas por mês, fixo + comissão, reagendamento, horas não usadas, inadimplência (pausa), reajuste, rescisão.
+2. **Contrato de prestação de serviço (mês 2 em diante, valores por cliente):** de 3 a 6 meses, horas por mês, fixo + comissão, reagendamento, horas não usadas, inadimplência (pausa), reajuste, rescisão.
 3. **Termo de uso de imagem** para hosts e creators externos (fase 2).
 - **Assinatura digital** (ZapSign, Autentique ou similar, com API).

@@ -13,6 +13,7 @@
 | 17/11/2026 | Sem aporte inicial: os custos são registrados e o dinheiro entra conforme a necessidade | Kaio |
 | 17/11/2026 | **Duda cuida de toda a operação** no dia a dia. **Felipe cuida do comercial.** Kaio fica com estratégia e tecnologia | Kaio |
 | 17/11/2026 | O branch `main` do GitHub é a base compartilhada de todas as sessões | Kaio |
+| 17/11/2026 | **Valores dos planos do mês 2 ainda não definidos.** Fixo, horas e comissão são **negociados por cliente**. A comissão do teste também pode variar por cliente (10% é a referência). As condições de cada cliente ficam no CRM e no acordo/contrato | Sócios (via sessão Comercial) |
 | 17/11/2026 | Automação na Fase 0: **Google Apps Script** (um projeto, "Casa Live — Automações"), sem n8n por enquanto. n8n entra quando houver WhatsApp API ou Claude API (A3, A5) | Kaio (sessão Automação) |
 | 17/11/2026 | Avisos das automações por **e-mail** até existir o número da empresa na WhatsApp Cloud API (fase 2) | Kaio (sessão Automação) |
 | 17/11/2026 | Configuração e log das automações ficam na planilha "Casa Live — Automação (Config e Log)", pasta 06. E-mails e segredos ficam nas Propriedades do script, nunca em planilha ou no GitHub | Kaio (sessão Automação) |
