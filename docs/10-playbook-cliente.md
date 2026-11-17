@@ -9,13 +9,13 @@
 | E0 | Lead | Felipe | Lead no CRM com origem | no mesmo dia |
 | E1 | Qualificação | Felipe | Checklist preenchido + nota ≥ 70 | até 2 dias |
 | E2 | Fechamento do teste | Felipe | Acordo de teste assinado | até 3 dias |
-| E3 | Onboarding | Kaio | Formulário + acessos + amostras + fichas aprovadas | D-7 a D-1 |
-| E4 | Planejamento | Kaio | Agenda do mês + roteiro + ofertas | D-3 |
+| E3 | Onboarding | Duda | Formulário + acessos + amostras + fichas aprovadas | D-7 a D-1 |
+| E4 | Planejamento | Duda | Agenda do mês + roteiro + ofertas | D-3 |
 | E5 | Live | Host + moderador | Live feita + registro preenchido | dia da live |
-| E6 | Relatório | Kaio | Relatório da live (D+1), semanal e mensal | D+1 / segunda / dia 1 |
-| E7 | Cobrança | Kaio | Fatura + nota + pagamento | até o dia 5 |
+| E6 | Relatório | Duda | Relatório da live (D+1), semanal e mensal | D+1 / segunda / dia 1 |
+| E7 | Cobrança | Duda | Fatura + nota + pagamento | até o dia 5 |
 | E8 | Conversão (fim do teste) | Felipe | Cliente no plano com fixo ou encerrado | dia 25 a 30 do teste |
-| E9 | Ativo / renovação | Felipe + Kaio | Revisão mensal + upsell | mensal |
+| E9 | Ativo / renovação | Felipe + Duda | Revisão mensal + upsell | mensal |
 
 ---
 
@@ -78,7 +78,7 @@
 
 **3. Amostras**
 - O cliente envia pelo menos 1 unidade de cada SKU (2 se for consumível).
-- Conferir na chegada, fotografar e registrar na planilha de amostras (devolver ou ficar).
+- Conferir na chegada, fotografar e registrar na planilha **Casa Live — Agenda**, aba **Amostras** (ID AMO-001, onde está guardada, se volta para o cliente).
 
 **4. Ficha de produto** (uma por SKU, modelo em `20-operacao-live`)
 - Benefícios, modo de uso, perguntas e respostas, objeções, frases proibidas, preço e oferta.
@@ -92,8 +92,10 @@
 - ✅ **Técnico:** acesso testado + amostras recebidas.
 
 ## E4 — Planejamento
-1. **Agenda do mês** na planilha de agenda e no Google Agenda: dia, horário, duração (2 h), cenário, host, moderador.
+1. **Agenda do mês** na planilha **Casa Live — Agenda** (aba Agenda) e no Google Agenda: ID da live (CL-AAAA-NNN), dia, horário, duração (2 h), cenário, host, moderador, produtos e ofertas.
    - Grade fixa: o mesmo dia e horário toda semana, para formar audiência.
+   - Antes de confirmar, conferir as colunas de alerta (cenário ocupado, pessoa em duas lives, acima do limite). Nenhuma pode estar em vermelho.
+   - Na véspera, marcar o checklist D-1 na própria linha da live.
 2. **Plano de ofertas por live:** produto âncora, promoção relâmpago, kit e brinde. Aprovado pelo cliente até D-3.
 3. **Roteiro** a partir do roteiro-base, com a ordem dos produtos e os ganchos.
 4. **Aquecimento:** 1 a 3 vídeos curtos anunciando a live (na conta do cliente e na nossa).
@@ -103,7 +105,7 @@
 
 ## E5 — Dia da live
 Siga o **Manual da Live** em `20-operacao-live`: checklist T-20, condução, incidentes e fechamento.
-**Saída:** linha no **Registro de Lives**, com:
+**Saída:** linha na planilha **Casa Live — Registro de Lives** (aba Registro), com o mesmo ID da Agenda e status da live mudado para Realizada na Agenda. Campos principais:
 - início e fim;
 - espectadores;
 - pico;

@@ -19,7 +19,18 @@
 | Incidentes (falha nossa ou do cliente) | Nosso registro |
 | Nota do host | Coordenação |
 
-[A VERIFICAR] Os nomes exatos das métricas no painel do TikTok Shop Brasil serão conferidos na primeira live e ajustados aqui.
+[A VERIFICAR] Os nomes exatos das métricas no painel do TikTok Shop Brasil serão conferidos na primeira live e ajustados aqui e nos cabeçalhos da planilha.
+
+**Onde fica:** planilha **Casa Live — Registro de Lives** (`1r_hgNWirrSL0AUcE8nDDMRjJt9cQz9qlTftfsgfLxn4`), aba Registro, uma linha por live. Fórmulas (auto) da linha:
+- Duração (h) = fim real − início real;
+- Atraso (min) = início real − início previsto (negativo se começou antes);
+- No horário = Sim se o atraso for de até **5 minutos** [PROPOSTA, parâmetro na aba Listas];
+- Conversão = pedidos ÷ espectadores únicos;
+- GPM = GMV ÷ espectadores únicos × 1.000;
+- GMV por hora = GMV ÷ duração;
+- Semana (segunda) e Mês, para os resumos.
+
+O Registro guarda o **GMV bruto** do painel. GMV líquido e comissão ficam na planilha Financeiro, aba Comissões, ligados pelo ID da live.
 
 ## 3. Relatório da live (D+1) — modelo
 ```
@@ -48,6 +59,7 @@
   - recomendações;
   - no fim do teste, a proposta do plano.
 - **Formato:** um Google Doc ou PDF a partir de um modelo, preenchido automaticamente com os dados da planilha e o texto escrito pelo Claude.
+- **De onde vêm os números:** aba **Resumo semanal** (por semana, filtrável por cliente, com a variação do GMV contra a semana anterior) e aba **Resumo por cliente** (qualquer período: lives, horas, GMV, pedidos, conversão, GPM, GMV por hora, % no horário, incidentes, % de relatórios D+1 enviados, nota média do host).
 
 ## 5. Painel interno da agência (semanal)
 | Bloco | KPI | Definição |
@@ -63,4 +75,4 @@
 | Financeiro | Custos do mês e saldo de aportes por sócio | Planilha financeira |
 | Hosts | Nota média e GMV por hora por host | Registro + avaliação |
 
-**Ferramenta:** começa como aba "Painel" no Google Sheets e depois migra para o Looker Studio, conectado às planilhas.
+**Ferramenta:** começa como aba "Painel" no Google Sheets e depois migra para o Looker Studio, conectado às planilhas. Os blocos Operação, Resultado do cliente e Hosts já saem do Registro de Lives (abas Resumo por cliente e Hosts).

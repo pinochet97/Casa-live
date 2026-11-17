@@ -16,7 +16,7 @@
 | Internet: testar o upload real; 4G de reserva | Estabilidade | 1 |
 
 **Regras do estúdio:**
-- Amostras de demonstração ficam separadas e etiquetadas por cliente.
+- Amostras de demonstração ficam separadas e etiquetadas por cliente, e registradas na planilha Agenda, aba Amostras.
 - Cabos organizados.
 - Celular em modo "não perturbe".
 - Ensaio de 30 min na configuração real antes da primeira live de cada cenário.
@@ -26,7 +26,7 @@
 |---|---|---|
 | **Host** | Apresenta, demonstra, conversa com o público, puxa a oferta | Felipe, Duda, Kaio, primo |
 | **Moderador / operador** | Fixa o produto no carrinho, lança a promoção relâmpago, responde o chat, monitora som e imagem, fala com o cliente no WhatsApp, anota os números | Quem não está apresentando |
-| **Coordenação** | Agenda, briefing, fichas, relatórios | Kaio |
+| **Coordenação** | Agenda, briefing, fichas, relatórios | Duda |
 
 Com 4 pessoas, o máximo é **2 lives simultâneas**.
 
@@ -79,12 +79,13 @@ Aprovado por: ______  em __/__
 - **Fechamento (5 min):** recapitular as ofertas e anunciar a próxima live (dia e hora).
 
 ## 6. Checklists
-**D-1:**
+**D-1** (marcar as caixas na linha da live, planilha Agenda):
 - ofertas aprovadas;
 - roteiro pronto;
 - amostras separadas;
 - equipe confirmada;
-- vídeo de aquecimento postado.
+- vídeo de aquecimento postado;
+- cliente avisado ("live amanhã às HH:MM").
 
 **T-20 min:**
 - [ ] Login na conta certa do cliente
@@ -94,7 +95,7 @@ Aprovado por: ______  em __/__
 - [ ] Internet testada; 4G pronto
 - [ ] Amostras na bancada, na ordem do roteiro
 - [ ] Cliente avisado ("entrando ao vivo em 20 min")
-- [ ] Planilha de registro aberta
+- [ ] Planilha Registro de Lives aberta (linha da live já com ID, data, cliente, host e moderador)
 
 **Durante:**
 - o moderador anota o pico de espectadores e o horário;
@@ -102,7 +103,7 @@ Aprovado por: ______  em __/__
 
 **Depois (até 15 min):**
 - [ ] Print ou exportação do painel da live (duração, espectadores, pico, GMV, pedidos, itens, cliques)
-- [ ] Preencher o Registro de Lives
+- [ ] Preencher o Registro de Lives (aba Registro) e mudar o status da live para Realizada na Agenda
 - [ ] Recolher e guardar as amostras
 - [ ] Marcar de 2 a 3 momentos bons para cortes
 
@@ -128,3 +129,30 @@ Todo incidente vai para o registro, com a distinção entre **falha nossa** e **
   - cases.
 - **Produção com IA:** foto e medidas do produto → o Claude gera o roteiro do vídeo (gancho, demonstração, CTA) → gravamos.
 - **Fase 2:** creators da Vyre produzindo UGC em escala.
+
+## 9. Planilhas da Operação (Drive, pasta 04 Dados e Relatórios)
+| Planilha | ID | Abas |
+|---|---|---|
+| **Casa Live — Agenda** | `1tIzQX4FwfDVxR_fIYCKfoMuPAVwyNW4jKSoSYrBuwQU` | Leia-me, Agenda, Grade semanal, Amostras, Listas |
+| **Casa Live — Registro de Lives** | `1r_hgNWirrSL0AUcE8nDDMRjJt9cQz9qlTftfsgfLxn4` | Leia-me, Registro, Resumo por cliente, Resumo semanal, Hosts, Listas |
+
+**Como as duas conversam:**
+1. A live nasce na **Agenda** com um ID `CL-AAAA-NNN` (sequencial, nunca reaproveitado, nem de live cancelada).
+2. Depois da live, o mesmo ID vai para o **Registro de Lives** e para a aba Comissões da planilha Financeiro.
+3. Na Agenda, o status passa para **Realizada**.
+
+**Agenda, colunas que se calculam sozinhas (auto):**
+- Dia e Duração;
+- Checklist D-1 completo: Sim quando as 5 caixas do D-1 estão marcadas;
+- Cenário ocupado: o mesmo cenário em duas lives que se sobrepõem;
+- Host em outra live / Moderador em outra live: a mesma pessoa em duas lives que se sobrepõem (como host ou moderador);
+- Acima do limite de lives simultâneas: mais lives ao mesmo tempo do que o limite da aba Listas (hoje 2, pela regra da seção 2).
+- Lives coladas (uma termina 16:00, a outra começa 16:00) não contam como conflito. Lives com status Cancelada não entram na conta.
+
+**Grade semanal:** escolhe-se uma data e a aba mostra a semana (segunda a domingo), por hora, com cliente / host / cenário. Serve para mandar no grupo da equipe.
+
+**Amostras:** uma linha por amostra recebida (ID `AMO-001`): chegada, cliente, produto, SKU, quantidade, estado, foto, local no estúdio, destino (devolver, fica com a casa, usada na demonstração) e data de devolução.
+
+**Regras de preenchimento:** texto azul = digitar; texto preto em fundo cinza = fórmula (cabeçalho com "(auto)"), não digitar por cima. Os nomes de clientes são os mesmos do CRM e do Financeiro.
+
+**Para automações (sessão Automação):** as colunas de caixa de seleção guardam FALSO em todas as linhas até a 1000. Por isso o "adicionar ao final" (`appendRow` / `append_values`) grava depois da linha 1000. Para inserir uma live, gravar na primeira linha com a coluna A (ID) vazia. Ler e gravar as colunas pelo nome do cabeçalho.

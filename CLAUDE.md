@@ -38,6 +38,8 @@ Casa Live no modelo LiveHouse: mês 1 só comissão, mês 2 em diante fixo + com
 | Casa Live — CRM (planilha, na pasta 02) | `1pyNO4KHIYvxK9u9UO8HJghY4WT6obF5gCSq-XM6RryU` |
 | 03 Operação (pasta), Manual da Live `13Wbmus5rerJ4fVa6FP2EyrmkuwtSKlIk901ArUKt_5w` | `1TEjEqFTo-ABf6pZ1iNCxFzR14dt2a44p` |
 | 04 Dados e Relatórios (pasta), Relatórios e KPIs `1NJqYhYoP4oMkrBEpd96VlTtTi6QcYNTJtuoXpFZsQPc` | `1XmWQ7zHTnqiWFq6vAEmJtBR-KYbUMoyd` |
+| Casa Live — Agenda (planilha, na pasta 04) | `1tIzQX4FwfDVxR_fIYCKfoMuPAVwyNW4jKSoSYrBuwQU` |
+| Casa Live — Registro de Lives (planilha, na pasta 04) | `1r_hgNWirrSL0AUcE8nDDMRjJt9cQz9qlTftfsgfLxn4` |
 | 05 Financeiro e Jurídico (pasta), doc `1TRHF41ttY_sEVp3kVuLcXLQuZpMcGfupYtbC6K9wxqc`, planilha Financeiro `1CVGQsrUnb3zHe6a_VcUQhhQPGH2YpUlXK6iVwyhwssA` | `1U0Sjh3ho8e8PZNmSoZQCMtdC2Zsp9Xv8` |
 | 06 Automação e Integrações (pasta), doc `1SxzGklRdzh5AfnpMMK8Ktpq6DwktcYF1zG4pHlA7RhY`, planilha Automação (Config e Log) `1qgjsBVpLnkB_weRbK6DngA_Ron0-tSntiv5WhufS4Eo` | `1Tr203So05XuVRbJvr9_jaAItTy04F1T5` |
 | 07 Marketing (pasta) | `1OUrAZWUfpSKntoRpmvKUylsDTzpiqdJz` |
@@ -57,6 +59,7 @@ A fonte da verdade dos textos é `docs/` neste repositório. Ao alterar um docum
 - `docs/40-financeiro-juridico.md`: CNPJ, acordo de sócios, custos e aportes, comissão, contratos.
 - `docs/50-automacao-integracoes.md`: arquitetura, catálogo de automações A1 a A12, APIs.
 - `areas/operacao/guia-duda.md`: **guia de início da Duda** (o que ler, o que decidir, o que pedir ao Perce, semana dia a dia).
+- `areas/operacao/planilhas-passo-a-passo.md`: como usar as planilhas Agenda e Registro de Lives, tarefa por tarefa.
 
 ## Sessões do Claude
 Cada área tem uma sessão fixa: Central, Financeiro, Comercial e Clientes, Operação, Automação. Veja `docs/sessoes.md` e `areas/<área>/README.md`.

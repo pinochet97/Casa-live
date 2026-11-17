@@ -125,7 +125,7 @@ Quando decidir, avise na **Central**: "Sou a Duda, decidimos: …". Eu registro 
   - o formulário de cadastro dos produtos;
   - a pasta do cliente no Drive.
   Você só envia e acompanha.
-☐ Montar a grade (D3) e a escala (D4).
+☐ Montar a grade (D3) e a escala (D4) na planilha **Casa Live — Agenda** (Tarefa 3 do `planilhas-passo-a-passo.md`).
 
 ### Seg 23/11: primeira reunião semanal (45 min, com Kaio e Perce)
 ☐ Peça na **Central**: "Sou a Duda, monta a pauta da reunião". Eu preparo.
@@ -149,6 +149,6 @@ Para cada live, siga os checklists do **Manual da Live** (D-1, T-20, durante e d
 | Dia 20 do teste de cada cliente | Avaliar se o cliente vira plano pago (eu preparo a proposta) | Comercial |
 
 ## Parte 7 — O que vem a seguir (o Claude prepara, você só usa)
-- Planilhas: **CRM** (clientes), **Agenda**, **Registro de Lives** e **Financeiro**
+- Planilhas: **CRM** (clientes), **Agenda**, **Registro de Lives** e **Financeiro**. ✅ Agenda e Registro de Lives já estão prontas na pasta 04: veja o passo a passo em `areas/operacao/planilhas-passo-a-passo.md` (ou peça na conversa Operação: "Sou a Duda, me ensina a usar a Agenda").
 - **Formulário de onboarding** para os clientes
 - Modelos: acordo de teste, ficha de produto, relatório
