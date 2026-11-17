@@ -53,7 +53,7 @@
 **Saída:** nota no CRM + decisão + os 3 a 5 SKUs candidatos.
 
 ## E2 — Fechamento do teste
-1. Enviar a proposta de teste (modelo M2): 30 dias, X lives por semana, comissão combinada com o cliente (referência: 10%), e o aviso de que a partir do mês 2 entra um fixo + comissão, com valores definidos a partir do resultado do teste. Registrar no CRM (aba Leads) a comissão combinada; em branco, vale a referência de 10%.
+1. Enviar a proposta de teste (modelo M2): 30 dias, X lives por semana, comissão combinada com o cliente (referência: 10%), e o aviso de que a partir do mês 2 entra um fixo + comissão, com valores definidos a partir do resultado do teste. Registrar no CRM (aba Leads, coluna "Comissão do teste (%)") a taxa combinada com esse cliente. Ela fica gravada só na linha dele.
 2. Enviar o **acordo de teste** (modelo em `40-financeiro-juridico`) por assinatura digital.
 3. Criar a pasta do cliente no Drive: `08 Clientes/<Marca>/` com Acordo, Fichas, Relatórios e Mídia.
 4. Criar o grupo de WhatsApp "<Marca> x Casa Live", com o decisor e o responsável pela operação.
@@ -127,7 +127,7 @@ Modelos e indicadores em `30-relatorios-kpis`.
 **Automação:** registro preenchido → Claude gera o texto do relatório → PDF ou mensagem → envio no grupo.
 
 ## E7 — Cobrança
-1. No dia 1, apurar a comissão: GMV das nossas lives no mês menos cancelamentos e devoluções, multiplicado pela comissão combinada com esse cliente (coluna "Comissão do teste aplicada" no CRM; no mês 2 em diante, "Comissão a partir do mês 2"). Usar a exportação do painel.
+1. No dia 1, apurar a comissão: GMV das nossas lives no mês menos cancelamentos e devoluções, multiplicado pela comissão combinada com esse cliente (coluna "Comissão do teste (%)" no CRM; no mês 2 em diante, "Comissão a partir do mês 2"). Usar a exportação do painel.
 2. Enviar o demonstrativo para conferência. O cliente tem 2 dias para contestar.
 3. Emitir a cobrança (Pix/boleto) e a nota fiscal de serviço. Vencimento no dia 5.
 4. Lembretes automáticos: D-1, no vencimento e D+3.
