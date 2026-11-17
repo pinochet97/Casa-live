@@ -43,7 +43,7 @@ Migrar de Sheets para banco de dados (Postgres/Supabase) e app próprio: agenda,
 | A11 | Dia 20 do teste | Alerta de conversão + rascunho da proposta do mês 2 com os números | 1 | n8n + Claude |
 | A12 | Foto do produto + medidas | Roteiro de vídeo curto e de live | 1 | Claude |
 
-**Status atualizado** de cada automação: aba Catálogo da planilha "Casa Live — Automação (Config e Log)" e `areas/automacao/README.md`. Em 17/11: A1 e A2 com código pronto (falta instalar, `areas/automacao/instalacao.md`); A9 no ar pela sessão Financeiro.
+**Status atualizado** de cada automação: aba Catálogo da planilha "Casa Live — Automação (Config e Log)" e `areas/automacao/README.md`. Em 17/11: A1 no ar (teste real OK), A2 instalada e em teste até o primeiro cliente chegar em E3; A9 no ar pela sessão Financeiro.
 
 ## 3. Padrões técnicos
 - **IDs:**
