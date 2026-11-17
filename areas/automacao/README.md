@@ -25,7 +25,8 @@
 areas/automacao/
 ├── instalacao.md                  ← passo a passo para o Kaio instalar A1 e A2
 ├── a9-custos.md                   ← como a A9 funciona
-├── apps-script/casa-live-automacao/   ← um projeto Apps Script com todos os arquivos
+├── apps-script/COLAR-NO-APPS-SCRIPT.gs ← arquivo único que o Kaio cola no Apps Script (gerado)
+├── apps-script/casa-live-automacao/   ← código-fonte, separado por assunto
 │   ├── appsscript.json   (fuso, permissões)
 │   ├── Config.gs         (lê a aba Config e as Propriedades do script; acha colunas pelo nome)
 │   ├── Log.gs            (registrarLog, avisarErro)
@@ -34,7 +35,7 @@ areas/automacao/
 │   ├── A2_PastaCliente.gs
 │   └── Instalacao.gs     (verificarInstalacao)
 ├── n8n/      (workflows exportados em JSON, a partir da fase 1)
-└── scripts/  (scripts auxiliares)
+└── scripts/juntar-apps-script.sh  (gera o arquivo único)
 ```
 
 ## Regras de código
@@ -44,6 +45,6 @@ areas/automacao/
 - **Segredos e e-mails:** só nas Propriedades do script ou no cofre do n8n.
 - **Fórmulas por API ou script:** separador `;` (as planilhas estão em pt-BR).
 - Cada automação tem uma função `testar…` que não altera dados.
-- Ao mudar o código aqui, colar a nova versão no projeto Apps Script. O GitHub é a fonte da verdade.
+- Ao mudar qualquer `.gs`, rodar `bash areas/automacao/scripts/juntar-apps-script.sh` e colar o `COLAR-NO-APPS-SCRIPT.gs` de novo no Apps Script (Ctrl+A, Ctrl+V). O GitHub é a fonte da verdade.
 
 **Regra de segurança:** tokens e senhas **nunca** no repositório nem nas planilhas. Usar o cofre do n8n e variáveis de ambiente.
