@@ -9,13 +9,13 @@
 | E0 | Lead | Felipe | Lead no CRM com origem | no mesmo dia |
 | E1 | Qualificação | Felipe | Checklist preenchido + nota ≥ 70 | até 2 dias |
 | E2 | Fechamento do teste | Felipe | Acordo de teste assinado | até 3 dias |
-| E3 | Onboarding | Kaio | Formulário + acessos + amostras + fichas aprovadas | D-7 a D-1 |
-| E4 | Planejamento | Kaio | Agenda do mês + roteiro + ofertas | D-3 |
+| E3 | Onboarding | Duda | Formulário + acessos + amostras + fichas aprovadas | D-7 a D-1 |
+| E4 | Planejamento | Duda | Agenda do mês + roteiro + ofertas | D-3 |
 | E5 | Live | Host + moderador | Live feita + registro preenchido | dia da live |
-| E6 | Relatório | Kaio | Relatório da live (D+1), semanal e mensal | D+1 / segunda / dia 1 |
-| E7 | Cobrança | Kaio | Fatura + nota + pagamento | até o dia 5 |
+| E6 | Relatório | Duda | Relatório da live (D+1), semanal e mensal | D+1 / segunda / dia 1 |
+| E7 | Cobrança | Duda | Fatura + nota + pagamento | até o dia 5 |
 | E8 | Conversão (fim do teste) | Felipe | Cliente no plano com fixo ou encerrado | dia 25 a 30 do teste |
-| E9 | Ativo / renovação | Felipe + Kaio | Revisão mensal + upsell | mensal |
+| E9 | Ativo / renovação | Felipe + Duda | Revisão mensal + upsell | mensal |
 
 ---
 
@@ -53,7 +53,7 @@
 **Saída:** nota no CRM + decisão + os 3 a 5 SKUs candidatos.
 
 ## E2 — Fechamento do teste
-1. Enviar a proposta de teste (modelo M2): 30 dias, X lives por semana, 10% de comissão, condições do mês 2 já explícitas.
+1. Enviar a proposta de teste (modelo M2): 30 dias, X lives por semana, comissão combinada com o cliente (referência: 10%), e o aviso de que a partir do mês 2 entra um fixo + comissão, com valores definidos a partir do resultado do teste. Registrar no CRM (aba Leads, coluna "Comissão do teste (%)") a taxa combinada com esse cliente. Ela fica gravada só na linha dele.
 2. Enviar o **acordo de teste** (modelo em `40-financeiro-juridico`) por assinatura digital.
 3. Criar a pasta do cliente no Drive: `08 Clientes/<Marca>/` com Acordo, Fichas, Relatórios e Mídia.
 4. Criar o grupo de WhatsApp "<Marca> x Casa Live", com o decisor e o responsável pela operação.
@@ -78,7 +78,7 @@
 
 **3. Amostras**
 - O cliente envia pelo menos 1 unidade de cada SKU (2 se for consumível).
-- Conferir na chegada, fotografar e registrar na planilha de amostras (devolver ou ficar).
+- Conferir na chegada, fotografar e registrar na planilha **Casa Live — Agenda**, aba **Amostras** (ID AMO-001, onde está guardada, se volta para o cliente).
 
 **4. Ficha de produto** (uma por SKU, modelo em `20-operacao-live`)
 - Benefícios, modo de uso, perguntas e respostas, objeções, frases proibidas, preço e oferta.
@@ -92,8 +92,10 @@
 - ✅ **Técnico:** acesso testado + amostras recebidas.
 
 ## E4 — Planejamento
-1. **Agenda do mês** na planilha de agenda e no Google Agenda: dia, horário, duração (2 h), cenário, host, moderador.
+1. **Agenda do mês** na planilha **Casa Live — Agenda** (aba Agenda) e no Google Agenda: ID da live (CL-AAAA-NNN), dia, horário, duração (2 h), cenário, host, moderador, produtos e ofertas.
    - Grade fixa: o mesmo dia e horário toda semana, para formar audiência.
+   - Antes de confirmar, conferir as colunas de alerta (cenário ocupado, pessoa em duas lives, acima do limite). Nenhuma pode estar em vermelho.
+   - Na véspera, marcar o checklist D-1 na própria linha da live.
 2. **Plano de ofertas por live:** produto âncora, promoção relâmpago, kit e brinde. Aprovado pelo cliente até D-3.
 3. **Roteiro** a partir do roteiro-base, com a ordem dos produtos e os ganchos.
 4. **Aquecimento:** 1 a 3 vídeos curtos anunciando a live (na conta do cliente e na nossa).
@@ -103,7 +105,7 @@
 
 ## E5 — Dia da live
 Siga o **Manual da Live** em `20-operacao-live`: checklist T-20, condução, incidentes e fechamento.
-**Saída:** linha no **Registro de Lives**, com:
+**Saída:** linha na planilha **Casa Live — Registro de Lives** (aba Registro), com o mesmo ID da Agenda e status da live mudado para Realizada na Agenda. Campos principais:
 - início e fim;
 - espectadores;
 - pico;
@@ -125,7 +127,7 @@ Modelos e indicadores em `30-relatorios-kpis`.
 **Automação:** registro preenchido → Claude gera o texto do relatório → PDF ou mensagem → envio no grupo.
 
 ## E7 — Cobrança
-1. No dia 1, apurar a comissão: GMV das nossas lives no mês menos cancelamentos e devoluções, multiplicado por 10%. Usar a exportação do painel.
+1. No dia 1, apurar a comissão: GMV das nossas lives no mês menos cancelamentos e devoluções, multiplicado pela comissão combinada com esse cliente (coluna "Comissão do teste (%)" no CRM; no mês 2 em diante, "Comissão a partir do mês 2"). Usar a exportação do painel.
 2. Enviar o demonstrativo para conferência. O cliente tem 2 dias para contestar.
 3. Emitir a cobrança (Pix/boleto) e a nota fiscal de serviço. Vencimento no dia 5.
 4. Lembretes automáticos: D-1, no vencimento e D+3.
@@ -133,7 +135,7 @@ Modelos e indicadores em `30-relatorios-kpis`.
 
 ## E8 — Conversão (fim do teste)
 1. **Dia 20 do teste:** fazer a análise interna. Vale continuar? O GMV justifica? O cliente é bom de trabalhar?
-2. **Dia 25:** reunião de resultado com o cliente (relatório mensal + proposta do plano Start ou Pro).
+2. **Dia 25:** reunião de resultado com o cliente (relatório mensal + proposta com fixo, horas e comissão calculados para esse cliente). Registrar no CRM as condições aceitas.
 3. **Dia 30:** assinar o contrato de 3 a 6 meses. Se não fechar, encerrar com educação, pedir depoimento e manter na lista.
 
 **Argumento:** os números do teste. Por exemplo: "Em 8 lives vendemos R$ X. Com 40 h/mês projetamos R$ Y."
@@ -165,8 +167,8 @@ Modelos e indicadores em `30-relatorios-kpis`.
 > Fechado, [nome]! Proposta do teste:
 > • 30 dias, [2] lives por semana de 2 h, na conta de vocês
 > • Estúdio, apresentador, moderador, roteiro e relatório no dia seguinte
-> • Comissão de 10% sobre as vendas das lives (líquidas de cancelamentos e devoluções)
-> • Depois do teste: plano Start, R$ 3.000/mês + 8–10% por 40 h, se fizer sentido para os dois lados
+> • Comissão de [X]% sobre as vendas das lives (líquidas de cancelamentos e devoluções)
+> • Depois do teste: um plano com fixo mensal + comissão, montado a partir dos números do teste, se fizer sentido para os dois lados
 > Te mando o acordo para assinar e o formulário de cadastro dos produtos.
 
 **M3 — Lembrete D-1**
