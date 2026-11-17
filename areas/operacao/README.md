@@ -7,11 +7,11 @@
 ## Dados (Drive, pasta 04 Dados e Relatórios)
 | Planilha | Link | Abas |
 |---|---|---|
-| **Casa Live — Agenda** | [abrir](https://docs.google.com/spreadsheets/d/1tIzQX4FwfDVxR_fIYCKfoMuPAVwyNW4jKSoSYrBuwQU/edit) | Leia-me, Agenda, Grade semanal, Amostras, Listas |
+| **Casa Live — Agenda** | [abrir](https://docs.google.com/spreadsheets/d/1tIzQX4FwfDVxR_fIYCKfoMuPAVwyNW4jKSoSYrBuwQU/edit) | Leia-me, Agenda, Grade semanal, Grade mensal, Amostras, Listas |
 | **Casa Live — Registro de Lives** | [abrir](https://docs.google.com/spreadsheets/d/1r_hgNWirrSL0AUcE8nDDMRjJt9cQz9qlTftfsgfLxn4/edit) | Leia-me, Registro, Resumo por cliente, Resumo semanal, Hosts, Listas |
 
 - O ID da live (`CL-AAAA-NNN`) nasce na Agenda e é o mesmo no Registro e na aba Comissões do Financeiro.
-- Passo a passo de uso para a Duda: `areas/operacao/planilhas-passo-a-passo.md`.
+- Passo a passo de uso para a Duda: `areas/operacao/planilhas-passo-a-passo.md` e, no Drive, o Doc [Planilhas da Operação: passo a passo](https://docs.google.com/document/d/1U9rPaF7VP8Xg5LQNT5NjiNHf8CeRTkjeq5HBcvS2Bbw/edit) (pasta 03 Operação). Ao mudar o .md, atualizar o Doc.
 - Regras técnicas (colunas "(auto)", alertas de conflito, nota para automações): `docs/20-operacao-live.md`, seção 9.
 
 ## Como usar esta sessão
@@ -25,5 +25,5 @@
 ## Pendências da área
 - [ ] Conferir na primeira live os nomes reais das métricas do painel do TikTok Shop e ajustar os cabeçalhos do Registro.
 - [ ] Sócios confirmarem a tolerância de atraso de 5 min para "No horário" (aba Listas do Registro, fundo amarelo).
-- [ ] Colocar o nome real do primo do Kaio nas abas Listas (hoje "Primo do Kaio").
+- [x] Nome do primo do Kaio nas abas Listas: Gustavo (feito em 17/11).
 - [ ] Cadastrar os clientes do teste nas abas Listas das duas planilhas, com o mesmo nome do CRM.

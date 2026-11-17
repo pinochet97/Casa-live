@@ -36,7 +36,7 @@ Casa Live no modelo LiveHouse: mês 1 só comissão, mês 2 em diante fixo + com
 | 01 Estratégia (pasta) | `1SW3PvkUXi-67cYzm4eaXVrOG3i-tiYux` |
 | 02 Comercial (pasta), Playbook do Cliente `1mKGVPnGi1fstxFQGwMivk6wePtzP_wSVThQWCFSvAlY` | `1abRtZrMQo-r_K86aYkFzTdPqrexILjpf` |
 | Casa Live — CRM (planilha, na pasta 02) | `1pyNO4KHIYvxK9u9UO8HJghY4WT6obF5gCSq-XM6RryU` |
-| 03 Operação (pasta), Manual da Live `13Wbmus5rerJ4fVa6FP2EyrmkuwtSKlIk901ArUKt_5w` | `1TEjEqFTo-ABf6pZ1iNCxFzR14dt2a44p` |
+| 03 Operação (pasta), Manual da Live `13Wbmus5rerJ4fVa6FP2EyrmkuwtSKlIk901ArUKt_5w`, guia Planilhas da Operação `1U9rPaF7VP8Xg5LQNT5NjiNHf8CeRTkjeq5HBcvS2Bbw` | `1TEjEqFTo-ABf6pZ1iNCxFzR14dt2a44p` |
 | 04 Dados e Relatórios (pasta), Relatórios e KPIs `1NJqYhYoP4oMkrBEpd96VlTtTi6QcYNTJtuoXpFZsQPc` | `1XmWQ7zHTnqiWFq6vAEmJtBR-KYbUMoyd` |
 | Casa Live — Agenda (planilha, na pasta 04) | `1tIzQX4FwfDVxR_fIYCKfoMuPAVwyNW4jKSoSYrBuwQU` |
 | Casa Live — Registro de Lives (planilha, na pasta 04) | `1r_hgNWirrSL0AUcE8nDDMRjJt9cQz9qlTftfsgfLxn4` |

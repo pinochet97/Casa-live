@@ -133,7 +133,7 @@ Todo incidente vai para o registro, com a distinção entre **falha nossa** e **
 ## 9. Planilhas da Operação (Drive, pasta 04 Dados e Relatórios)
 | Planilha | ID | Abas |
 |---|---|---|
-| **Casa Live — Agenda** | `1tIzQX4FwfDVxR_fIYCKfoMuPAVwyNW4jKSoSYrBuwQU` | Leia-me, Agenda, Grade semanal, Amostras, Listas |
+| **Casa Live — Agenda** | `1tIzQX4FwfDVxR_fIYCKfoMuPAVwyNW4jKSoSYrBuwQU` | Leia-me, Agenda, Grade semanal, Grade mensal, Amostras, Listas |
 | **Casa Live — Registro de Lives** | `1r_hgNWirrSL0AUcE8nDDMRjJt9cQz9qlTftfsgfLxn4` | Leia-me, Registro, Resumo por cliente, Resumo semanal, Hosts, Listas |
 
 **Como as duas conversam:**
@@ -151,7 +151,11 @@ Todo incidente vai para o registro, com a distinção entre **falha nossa** e **
 
 **Grade semanal:** escolhe-se uma data e a aba mostra a semana (segunda a domingo), por hora, com cliente / host / cenário. Serve para mandar no grupo da equipe.
 
+**Grade mensal:** calendário do mês escolhido. Cada dia lista as lives em ordem de horário (hora, cliente / host). No alto, total de lives, horas e alertas de conflito do mês.
+
 **Amostras:** uma linha por amostra recebida (ID `AMO-001`): chegada, cliente, produto, SKU, quantidade, estado, foto, local no estúdio, destino (devolver, fica com a casa, usada na demonstração) e data de devolução.
+
+**Guia de uso no Drive:** Doc "Planilhas da Operação: passo a passo" (pasta 03 Operação), com link no topo do Leia-me das duas planilhas.
 
 **Regras de preenchimento:** texto azul = digitar; texto preto em fundo cinza = fórmula (cabeçalho com "(auto)"), não digitar por cima. Os nomes de clientes são os mesmos do CRM e do Financeiro.
 

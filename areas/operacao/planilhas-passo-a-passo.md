@@ -5,6 +5,7 @@
 > - **Casa Live — Registro de Lives**: onde cada live é anotada, depois que aconteceu.
 >
 > Regra das cores nas duas: **texto azul = você digita**. **Fundo cinza com "(auto)" no título = a planilha calcula sozinha, não digite ali.**
+> Este guia também está no Drive: **Casa Live → 03 Operação → Planilhas da Operação: passo a passo**.
 > Se preferir, mande tudo para a conversa **Operação** ("Sou a Duda, …") que eu preencho por você. Este guia é para quando você quiser fazer direto.
 
 ---
@@ -23,6 +24,7 @@
 
 ## Tarefa 2 — Cadastrar clientes e equipe nos menus (5 min, uma vez)
 Os menus das planilhas (Cliente, Host, Cenário…) vêm da aba **Listas**. Faça nas **duas** planilhas:
+
 1. Clique na aba **Listas** (embaixo, na barra de abas).
 2. Na coluna **Clientes**, a partir da linha 2, digite o nome de cada marca do teste, **um por linha**, escrito igual ao CRM.
 3. Na coluna **Hosts e moderadores**, troque "Primo do Kaio" pelo nome dele.
@@ -72,6 +74,15 @@ Os menus das planilhas (Cliente, Host, Cenário…) vêm da aba **Listas**. Faç
 ☐ Feito.
 ✅ **Deu certo quando** as lives da semana aparecem nos horários certos, em azul-claro.
 
+## Tarefa 5b — Ver o mês inteiro (quando quiser)
+1. Na Agenda, clique na aba **Grade mensal**.
+2. Na célula azul ao lado de **Mês**, digite qualquer data do mês (ex.: 01/12/2026). Em branco, mostra o mês atual.
+3. Cada dia mostra as lives em ordem de horário: **hora, cliente / host**. Dias com live ficam azul-claro; dias de outro mês ficam cinza.
+4. No alto, à direita: **Lives no mês**, **Horas no mês** e **Alertas de conflito no mês**. Se o número de alertas ficar vermelho, volte na aba Agenda e procure as colunas vermelhas.
+
+☐ Feito.
+✅ **Deu certo quando** as lives do mês aparecem nos dias certos e o total de lives bate com o que você marcou.
+
 ---
 
 ## Tarefa 6 — Registrar uma live que aconteceu (5 min, até 15 min depois da live)
@@ -93,6 +104,7 @@ Os menus das planilhas (Cliente, Host, Cenário…) vêm da aba **Listas**. Faç
 
 ## Tarefa 7 — Ver os números (quando precisar)
 No **Registro de Lives**:
+
 - Aba **Resumo por cliente**: digite **De** e **Até** (células azuis) e veja, por cliente, lives, horas, GMV, conversão, pontualidade, relatórios enviados e nota do host.
 - Aba **Resumo semanal**: semana a semana, com a variação do GMV contra a semana anterior. Na célula azul **Cliente**, escolha uma marca ou deixe em branco para ver todas.
 - Aba **Hosts**: GMV por hora e nota média de cada host no mesmo período do Resumo por cliente.
