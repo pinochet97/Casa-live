@@ -53,14 +53,21 @@ O CNPJ está só com o Felipe, então o acordo protege os dois. Ele precisa defi
 - **Cobrança:** Pix/boleto com vencimento no dia 5, via plataforma com emissão de NFS-e integrada (ex.: Asaas). [A VERIFICAR: tarifas]
 
 ## 5. Planilha financeira (abas)
+Planilha **"Casa Live — Financeiro"** (Drive, pasta 05): ID `1CVGQsrUnb3zHe6a_VcUQhhQPGH2YpUlXK6iVwyhwssA`.
+Convenções: texto azul = campo para digitar; texto preto = fórmula (não digitar por cima); fundo amarelo = depende de decisão. Datas em DD/MM/AAAA, valores com vírgula nos centavos. Planilha em português (pt_BR): nas fórmulas, o separador é `;`.
+
 | Aba | Conteúdo |
 |---|---|
-| Custos | Data, descrição, categoria, valor, quem pagou, forma, comprovante (link) |
-| Aportes | Saldo por sócio (soma dos custos pagos − reembolsos) |
-| Receitas | Cliente, competência, tipo (fixo, comissão, afiliado), valor, vencimento, pago em, NF |
-| A receber | Abertos e vencidos |
-| Resultado mensal | Receita − custos, receita por hora de live |
-| Caixa 13 semanas | Projeção simples |
+| Leia-me | Legenda, descrição das abas e regras de preenchimento |
+| Custos | ID (`CST-001`), data, descrição, categoria, valor, quem pagou (Kaio, Duda, Felipe ou Casa Live), forma, comprovante (link), observação. Coluna "Mês" automática |
+| Aportes | Por pessoa: custos pagos − reembolsos = saldo a reembolsar. Subtotal "Lado Kaio (Kaio + Duda)" e % de cada lado. Linha de conferência (deve dar zero) |
+| Reembolsos | ID (`REE-001`), data, para quem, valor, origem do dinheiro |
+| Receitas | ID (`REC-001`), cliente, competência (dia 1 do mês), tipo (Fixo, Comissão, Afiliado), valor informado (fixo/afiliado), valor (comissão vem da aba Comissões), vencimento, pago em, valor pago, saldo, NF, status automático (Em aberto, Vencido, Pago, Sem vencimento, Sem valor) |
+| Comissões | Demonstrativo por live: cliente, ID e data da live, GMV bruto, cancelamentos/devoluções, GMV líquido, %, comissão. Competência automática pela data |
+| A receber | Totais em aberto, vencido e sem vencimento + lista automática ordenada por vencimento |
+| Resultado mensal | Nov/2026 a dez/2027: fixo, comissão, afiliado, receita, custos, resultado, horas de live (digitar), receita por hora, acumulado |
+| Caixa 13 semanas | Saldo de hoje (digitar), recebimentos previstos pelo vencimento, saídas previstas (digitar), saldo semana a semana |
+| Listas | Opções dos menus: categorias, quem pagou, formas de pagamento, tipos de receita, **clientes** (cadastrar o cliente aqui antes de lançar receita ou comissão) |
 
 ## 6. Contratos (modelos a criar na pasta 05)
 1. **Acordo de teste (30 dias, só comissão)**, com estes pontos:
