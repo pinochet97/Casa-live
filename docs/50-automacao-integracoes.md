@@ -13,7 +13,8 @@ Google Forms (lead, onboarding) ──► Google Sheets (CRM, Agenda, Registro d
                                          └──► WhatsApp (avisos e relatórios)
 ```
 - **Banco de dados:** Google Sheets, uma planilha com abas e IDs padronizados (CLI-001, CL-2026-001).
-- **Orquestração:** n8n (self-hosted ou cloud), ou Make. Para gatilhos simples, Apps Script.
+- **Orquestração:** [DECIDIDO 17/11] na Fase 0, **Google Apps Script** (projeto "Casa Live — Automações"). O n8n (self-hosted ou cloud) entra quando houver WhatsApp API ou Claude API (A3, A5).
+- **Avisos:** [DECIDIDO 17/11] por e-mail até existir o número da empresa na WhatsApp Cloud API.
 - **IA:** Claude, para gerar relatórios, roteiros, fichas de produto, roteiros de vídeo curto e análises.
 
 ### Fase 2 (jan–fev): integrações de dados e cobrança
@@ -29,8 +30,8 @@ Migrar de Sheets para banco de dados (Postgres/Supabase) e app próprio: agenda,
 ## 2. Catálogo de automações (por prioridade)
 | # | Gatilho | Ação | Fase | Ferramenta |
 |---|---|---|---|---|
-| A1 | Formulário "Quero live" enviado | Cria o lead no CRM (E0) + avisa o Felipe no WhatsApp | 0 | Forms → Sheets → n8n |
-| A2 | CRM muda para "E2 assinado" | Cria a pasta do cliente no Drive (com subpastas), envia o formulário de onboarding, cria o checklist E3 | 1 | n8n / Apps Script |
+| A1 | Formulário "Quero live" enviado | Cria o lead no CRM (E0) + avisa o Felipe (e-mail agora, WhatsApp na fase 2) | 0 | Forms + Apps Script |
+| A2 | CRM muda para "E3 Onboarding" (acordo assinado) | Cria a pasta do cliente em 08 Clientes (Acordo, Fichas, Relatórios, Mídia) + avisa a Duda. Formulário de onboarding fica para a A3 | 1 | Apps Script |
 | A3 | Formulário de onboarding enviado | Gera as **fichas de produto** em rascunho com o Claude a partir das respostas → Doc para o cliente aprovar | 1 | n8n + Claude API |
 | A4 | Live criada na Agenda | Convite para a equipe + lembrete para o cliente em D-1 + checklist T-20 para o moderador | 1 | Google Agenda + n8n |
 | A5 | Registro de Live preenchido | Claude escreve o **relatório D+1** → envia ao cliente | 1 | n8n + Claude API |
@@ -42,6 +43,8 @@ Migrar de Sheets para banco de dados (Postgres/Supabase) e app próprio: agenda,
 | A11 | Dia 20 do teste | Alerta de conversão + rascunho da proposta do mês 2 com os números | 1 | n8n + Claude |
 | A12 | Foto do produto + medidas | Roteiro de vídeo curto e de live | 1 | Claude |
 
+**Status atualizado** de cada automação: aba Catálogo da planilha "Casa Live — Automação (Config e Log)" e `areas/automacao/README.md`. Em 17/11: A1 e A2 com código pronto (falta instalar, `areas/automacao/instalacao.md`); A9 no ar pela sessão Financeiro.
+
 ## 3. Padrões técnicos
 - **IDs:**
   - cliente `CLI-001`;
@@ -51,7 +54,11 @@ Migrar de Sheets para banco de dados (Postgres/Supabase) e app próprio: agenda,
 - **Segredos** (tokens de API, acessos de clientes) **nunca** em planilha ou documento. Usar o cofre do n8n e variáveis de ambiente.
 - **Acessos de cliente:** sempre por convite e papel na conta do cliente, revogáveis; registrar quem concedeu e quando.
 - **Dados separados por cliente:** relatórios e pastas por cliente; cada cliente vê só o que é seu.
-- **Log:** cada automação grava data, gatilho, resultado e erro numa aba "Log".
+- **Log:** cada automação grava data, gatilho, referência, resultado (OK, ERRO, TESTE) e erro na aba "Log" da planilha "Casa Live — Automação (Config e Log)". Erros também vão por e-mail ao Kaio.
+- **Configuração:** IDs de planilhas e pastas na aba "Config" dessa planilha; e-mails nas Propriedades do script.
+- **Colunas pelo nome do cabeçalho**, nunca pela letra. Renomear um cabeçalho usado por automação quebra a automação (ela para e registra o erro, não grava errado).
+- **Locale pt-BR:** fórmulas gravadas por API ou script usam `;` como separador (`=SE(A2="";"";A2*2)`). Com `,` a célula mostra #ERROR!.
+- **Não escrever em colunas "(auto)"** (fórmulas) das planilhas das outras áreas.
 
 ## 4. Contas e ferramentas a criar
 | Ferramenta | Para quê | Fase | Custo |

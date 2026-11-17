@@ -39,7 +39,7 @@ Casa Live no modelo LiveHouse: mês 1 só comissão, mês 2 em diante fixo + com
 | 03 Operação (pasta), Manual da Live `13Wbmus5rerJ4fVa6FP2EyrmkuwtSKlIk901ArUKt_5w` | `1TEjEqFTo-ABf6pZ1iNCxFzR14dt2a44p` |
 | 04 Dados e Relatórios (pasta), Relatórios e KPIs `1NJqYhYoP4oMkrBEpd96VlTtTi6QcYNTJtuoXpFZsQPc` | `1XmWQ7zHTnqiWFq6vAEmJtBR-KYbUMoyd` |
 | 05 Financeiro e Jurídico (pasta), doc `1TRHF41ttY_sEVp3kVuLcXLQuZpMcGfupYtbC6K9wxqc`, planilha Financeiro `1CVGQsrUnb3zHe6a_VcUQhhQPGH2YpUlXK6iVwyhwssA` | `1U0Sjh3ho8e8PZNmSoZQCMtdC2Zsp9Xv8` |
-| 06 Automação e Integrações (pasta), doc `1SxzGklRdzh5AfnpMMK8Ktpq6DwktcYF1zG4pHlA7RhY` | `1Tr203So05XuVRbJvr9_jaAItTy04F1T5` |
+| 06 Automação e Integrações (pasta), doc `1SxzGklRdzh5AfnpMMK8Ktpq6DwktcYF1zG4pHlA7RhY`, planilha Automação (Config e Log) `1qgjsBVpLnkB_weRbK6DngA_Ron0-tSntiv5WhufS4Eo` | `1Tr203So05XuVRbJvr9_jaAItTy04F1T5` |
 | 07 Marketing (pasta) | `1OUrAZWUfpSKntoRpmvKUylsDTzpiqdJz` |
 | 08 Clientes (pasta, uma subpasta por cliente) | `1Ojz82TFoazfQ9s1ZfYkab1K0QtekJxB4` |
 | 99 Fontes (pasta: transcrições, briefing, PDFs) | `1lim_OjmmIgUvGTozCsJBHRqIC6TSPvMj` |
