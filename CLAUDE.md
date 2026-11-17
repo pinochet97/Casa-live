@@ -55,6 +55,7 @@ A fonte da verdade dos textos é `docs/` neste repositório. Ao alterar um docum
 - `docs/30-relatorios-kpis.md`: indicadores, relatórios D+1, semanal e mensal, painel interno.
 - `docs/40-financeiro-juridico.md`: CNPJ, acordo de sócios, custos e aportes, comissão, contratos.
 - `docs/50-automacao-integracoes.md`: arquitetura, catálogo de automações A1 a A12, APIs.
+- `areas/operacao/guia-duda.md`: **guia de início da Duda** (o que ler, o que decidir, o que pedir ao Perce, semana dia a dia).
 
 ## Sessões do Claude
 Cada área tem uma sessão fixa: Central, Financeiro, Comercial e Clientes, Operação, Automação. Veja `docs/sessoes.md` e `areas/<área>/README.md`.
