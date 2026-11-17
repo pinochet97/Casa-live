@@ -4,7 +4,7 @@
 
 **Regras:** `docs/40-financeiro-juridico.md`.
 
-**Dados:** planilha "Casa Live — Financeiro" (Drive, pasta 05). Abas: Custos, Aportes, Receitas, A receber, Resultado mensal, Caixa 13 semanas.
+**Dados:** planilha "Casa Live — Financeiro" (Drive, pasta 05). Abas: Custos, Receitas, Aportes por sócio, Resumo. (A receber e a projeção de caixa ficam para quando houver receita.)
 
 **Como lançar um custo:** escreva "paguei R$ X de <o quê> em DD/MM, <quem pagou>, <forma>". O Claude registra com ID `CST-NNN` e categoria, e atualiza o saldo de aportes.
 

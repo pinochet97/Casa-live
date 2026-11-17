@@ -4,7 +4,7 @@
 
 **Regras:** `docs/20-operacao-live.md` e `docs/30-relatorios-kpis.md`.
 
-**Dados:** planilhas "Casa Live — Agenda" e "Casa Live — Registro de Lives" (Drive, pasta 04).
+**Dados:** planilha "Casa Live — Operação (Agenda, Lives, Amostras)" (Drive, pasta 04), com as abas Agenda, Registro de Lives, Amostras e Equipe.
 
 **Como usar:**
 - "Montar agenda de <marca> para <mês>"

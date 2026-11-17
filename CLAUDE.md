@@ -42,6 +42,12 @@ Casa Live no modelo LiveHouse: mês 1 só comissão, mês 2 em diante fixo + com
 | 07 Marketing (pasta) | `1OUrAZWUfpSKntoRpmvKUylsDTzpiqdJz` |
 | 08 Clientes (pasta, uma subpasta por cliente) | `1Ojz82TFoazfQ9s1ZfYkab1K0QtekJxB4` |
 | 99 Fontes (pasta: transcrições, briefing, PDFs) | `1lim_OjmmIgUvGTozCsJBHRqIC6TSPvMj` |
+| 00 Guia da Duda (Doc, raiz) | `1Uh-W_AFdUHIvoRs59rh7mtw_Gsmx2QuXmgT5nOEzqYU` |
+| **Planilha CRM** (02 Comercial): abas Leads e Clientes, Legenda | `1mqhTyKxCFOCGho7h-Xgo5F1iEqx8zPAAbHi5h55jJhM` |
+| **Planilha Operação** (04): abas Agenda, Registro de Lives, Amostras, Equipe | `1p2dilivvVwqiH6kzbBfZfcqf4Jyb0mN4BMB-eHVCTkI` |
+| **Planilha Financeiro** (05): abas Custos, Receitas, Aportes por sócio, Resumo | `1OJNMNPF9fQMwWbz2IjZAhDg9r0xu0fMVhW1iNRR9Ee8` |
+
+Padrões das planilhas: locale pt_BR (fórmulas com `;`). Colunas "automático" têm ARRAYFORMULA na linha 2: não escrever nelas. "Quem pagou" aceita só: Kaio, Duda, Felipe, Empresa (CNPJ). Duda conta no lado do Kaio.
 
 A fonte da verdade dos textos é `docs/` neste repositório. Ao alterar um documento, atualizar também o Doc no Drive.
 
