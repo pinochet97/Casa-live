@@ -1,5 +1,7 @@
 # Guia da Duda — por onde começar
 
+> Este guia também está no Drive: **Casa Live → 03 Operação → Guia da Duda — por onde começar**. Ao mudar este arquivo, atualizar o Doc.
+
 > Oi, Duda! Este guia é seu. Você é a **responsável por toda a operação da Casa Live**: clientes, lives, agenda, relatórios e controles do dia a dia. O Felipe (Perce) cuida do comercial (trazer e fechar marcas). O Kaio cuida da estratégia e da tecnologia.
 > Siga na ordem. Cada tarefa tem um ☐ para marcar e um "✅ Deu certo quando…" para você saber que terminou.
 
@@ -125,7 +127,7 @@ Quando decidir, avise na **Central**: "Sou a Duda, decidimos: …". Eu registro 
   - o formulário de cadastro dos produtos;
   - a pasta do cliente no Drive.
   Você só envia e acompanha.
-☐ Montar a grade (D3) e a escala (D4) na planilha **Casa Live — Agenda** (Tarefa 3 do `planilhas-passo-a-passo.md`).
+☐ Montar a grade (D3) e a escala (D4) na planilha **Casa Live — Agenda** (Tarefa 3 do guia **Planilhas da Operação: passo a passo**, pasta 03 Operação no Drive).
 
 ### Seg 23/11: primeira reunião semanal (45 min, com Kaio e Perce)
 ☐ Peça na **Central**: "Sou a Duda, monta a pauta da reunião". Eu preparo.
@@ -149,6 +151,6 @@ Para cada live, siga os checklists do **Manual da Live** (D-1, T-20, durante e d
 | Dia 20 do teste de cada cliente | Avaliar se o cliente vira plano pago (eu preparo a proposta) | Comercial |
 
 ## Parte 7 — O que vem a seguir (o Claude prepara, você só usa)
-- Planilhas: **CRM** (clientes), **Agenda**, **Registro de Lives** e **Financeiro**. ✅ Agenda e Registro de Lives já estão prontas na pasta 04: veja o passo a passo em `areas/operacao/planilhas-passo-a-passo.md` (ou peça na conversa Operação: "Sou a Duda, me ensina a usar a Agenda").
+- Planilhas: **CRM** (clientes), **Agenda**, **Registro de Lives** e **Financeiro**. ✅ Agenda e Registro de Lives já estão prontas na pasta 04: veja o guia **Planilhas da Operação: passo a passo**, na pasta 03 Operação do Drive (ou peça na conversa Operação: "Sou a Duda, me ensina a usar a Agenda").
 - **Formulário de onboarding** para os clientes
 - Modelos: acordo de teste, ficha de produto, relatório
