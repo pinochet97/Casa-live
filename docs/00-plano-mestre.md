@@ -104,7 +104,7 @@ O repositório GitHub `casa-live` guarda a mesma documentação em Markdown, par
 ### Fase 3 — Escala (a partir de mar/2027)
 Só avança se atingir os critérios abaixo.
 - **Casa alugada:** pelo menos 6 clientes pagantes por 2 meses e caixa para 3 meses de aluguel
-- **Host contratado:** ocupação acima de 75% da capacidade dos sócios por 4 semanas
+- **Colaboradoras fixas:** 2 contratadas para as lives de teste ao chegar em 10 empresas (decisão de 18/11)
 - **Segundo estúdio simultâneo:** agenda com conflito de horário recorrente
 - Plataforma própria (evolução da Central Marketplaces) e marca própria de cosméticos
 

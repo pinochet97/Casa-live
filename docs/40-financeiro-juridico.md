@@ -47,7 +47,7 @@ O CNPJ está só com o Felipe, então o acordo protege os dois. Ele precisa defi
 - **Teste (30 dias) e contrato de 6 meses:** teste só por comissão (8% a 12%, taxa por cliente, ver CRM) sobre o GMV líquido das nossas lives; no contrato de 6 meses, gestão de R$ 3.000 + comissão.
 - **Cobrança:**
   - boleto no dia 05 com a comissão (e, no contrato, a gestão) do mês anterior (pós-pago);
-  - boleto não pago: lives interrompidas imediatamente. Vendedores de live: R$ 100 por live (mínimo de 3 h), pagos com a gestão do cliente (no teste não há gestão: a definir), + 3% do GMV da live, pagos pela Casa (ver 11-estrutura-comercial).
+  - boleto não pago: lives interrompidas imediatamente. Vendedores de live: R$ 100 por live (mínimo de 3 h), pagos com a gestão do cliente (no teste, as lives são feitas pelos sócios; a partir de 10 empresas, por 2 colaboradoras fixas), + 3% do GMV da live, pagos pela Casa (ver 11-estrutura-comercial).
 - **Demonstrativo de comissão:** lista de lives (ID, data, GMV, cancelamentos e devoluções, GMV líquido) × % = valor. Vai junto com o relatório mensal.
 - **Rota de afiliado:** a comissão é paga pelo TikTok Shop na nossa conta. Registrar como receita separada.
 - **Cobrança:** Pix/boleto com vencimento no dia 5, via plataforma com emissão de NFS-e integrada (ex.: Asaas). [A VERIFICAR: tarifas]

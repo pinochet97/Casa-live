@@ -36,3 +36,5 @@
 | 18/11/2026 | Gerente de contas: hoje todos os sócios; no futuro, uma supervisora/gerente de contas para o feedback diário nos grupos | Sócios (sessão Comercial) |
 | 18/11/2026 | **Acompanhamento diário** no grupo do cliente: vídeo da live, print do GMV, horas do dia e itens vendidos | Sócios (sessão Comercial) |
 | 18/11/2026 | Pós-venda (relacionamento, revisão, upsell, renovação): Felipe. Metas: a definir | Sócios (sessão Comercial) |
+| 18/11/2026 | **Lives do teste:** no início, feitas pelos próprios sócios, para validar o projeto. Sem custo de vendedor no teste | Sócios (sessão Comercial) |
+| 18/11/2026 | **A partir de 10 empresas:** 2 colaboradoras contratadas fixas para as lives de teste, no custo fixo (não freelancer) | Sócios (sessão Comercial) |

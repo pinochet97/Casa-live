@@ -64,7 +64,7 @@ Por que 30 dias de teste: pouco tempo gera volume baixo de vendas, o que não é
 | **Vínculo** | Freelancer |
 | **Pagamento por live** | **R$ 100,00 por live de no mínimo 3 h** |
 | **Comissão** | **3% sobre o GMV gerado na live** |
-| **Quando recebe os R$ 100** | Junto com o pagamento da gestão pelo cliente. [A DEFINIR] No teste não há gestão: quem paga os R$ 100? |
+| **Quando recebe os R$ 100** | Junto com o pagamento da gestão pelo cliente (contrato de 6 meses). No teste não há vendedor pago (ver 3.5) |
 | **Quem paga a comissão de 3%** | A Casa (sai da comissão que recebemos do cliente) |
 | **Comunidade de vendedores** | Os vendedores formam uma comunidade e podem ser trocados e testados entre as empresas |
 
@@ -85,6 +85,12 @@ Por que 30 dias de teste: pouco tempo gera volume baixo de vendas, o que não é
 
 ### 3.4 Metas [A DEFINIR]
 Metas de vendedores, gerente de contas e comercial: definir conforme o desenvolvimento.
+
+### 3.5 Quem faz as lives do teste [DECIDIDO]
+
+- **No início:** os próprios sócios fazem as lives do teste e validam todo o projeto. Não há custo de vendedor no teste.
+- **A partir de 10 empresas:** 2 colaboradoras contratadas fixas, dedicadas às lives de teste. Entram no custo fixo, não como freelancer.
+- [A VERIFICAR com contador] Custo das 2 contratações (salário + encargos) e se a receita de 10 empresas cobre esse custo.
 
 ## 4. Canais de aquisição [DECIDIDO]
 **Queremos lead quente. Não fazemos prospecção fria.**
@@ -121,7 +127,7 @@ Feita só com os números decididos. Não inclui impostos nem taxa de boleto [A 
 - Para cumprir 60 h em 22 dias com lives de 3 h: **22 lives por mês** (66 h).
 - Vendedor: 22 × R$ 100 = **R$ 2.200**.
 - **Sobram cerca de R$ 800 por cliente** para aluguel, água, luz, internet e estrutura.
-- Atenção: se o vendedor fizer mais lives (ex.: 2 por dia), a gestão não cobre. No teste não há gestão: os cerca de R$ 2.200 do vendedor saem do caixa da Casa ou da comissão do mês [A DEFINIR].
+- Atenção: se o vendedor fizer mais lives (ex.: 2 por dia), a gestão não cobre. No teste não há gestão nem custo de vendedor: as lives do teste são feitas pelos próprios sócios (ver 3.5).
 
 **Comissão (exemplo com R$ 10.000 de GMV no mês):**
 
@@ -131,13 +137,13 @@ Feita só com os números decididos. Não inclui impostos nem taxa de boleto [A 
 | 10% | R$ 1.000 | R$ 300 | R$ 700 (7%) |
 | 12% | R$ 1.200 | R$ 300 | R$ 900 (9%) |
 
-**Capacidade:** cada cliente ocupa cerca de 22 lives por mês. Com 3 clientes, são cerca de 66 lives por mês, perto de 3 por dia útil. Isso pede estúdios e vendedores em paralelo.
+**Capacidade:** cada cliente ocupa cerca de 22 lives por mês. Com 3 clientes, são cerca de 66 lives por mês, perto de 3 por dia útil. Isso pede estúdios e vendedores em paralelo. No começo, as lives dos testes ficam com os sócios: com 3 clientes em teste ao mesmo tempo, são cerca de 66 lives por mês para os sócios fazerem.
 
 ## 8. Impacto nas outras áreas
 
 | Área | O que muda |
 |---|---|
-| **Operação** | Relatório diário no grupo do cliente (seção 5). Controle de horas e dias por cliente (mínimo de 60 h e 22 dias). Escala de vendedores freelancers |
+| **Operação** | Relatório diário no grupo do cliente (seção 5). Controle de horas e dias por cliente (mínimo de 60 h e 22 dias). Escala de vendedores freelancers (contrato) e dos sócios (teste) |
 | **Financeiro** | Teste só por comissão; gestão a partir do contrato de 6 meses. Boleto no dia 05 do mês seguinte (pós-pago). Pagamento dos vendedores: R$ 100 por live + 3% do GMV |
 | **Automação** | Landing page + cadastro (A1 já existe). Relatório diário automático. Cálculo do pagamento dos vendedores |
 | **Marketing** | Conteúdo e Meta Ads como canal principal |
