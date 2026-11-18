@@ -38,3 +38,10 @@
 | 18/11/2026 | Pós-venda (relacionamento, revisão, upsell, renovação): Felipe. Metas: a definir | Sócios (sessão Comercial) |
 | 18/11/2026 | **Lives do teste:** no início, feitas pelos próprios sócios, para validar o projeto. Sem custo de vendedor no teste | Sócios (sessão Comercial) |
 | 18/11/2026 | **A partir de 10 empresas:** 2 colaboradoras contratadas fixas para as lives de teste, no custo fixo (não freelancer) | Sócios (sessão Comercial) |
+| 18/11/2026 | **Contrato após o teste:** primeiro contrato de **3 meses**, depois renovações de **6 meses**. Multa se o cliente cancelar: **30% a 50%** dos meses restantes (percentual exato a definir no modelo de contrato). Substitui a multa integral e o primeiro contrato de 6 meses | Sócios (sessão Comercial) |
+| 18/11/2026 | **Gestão paga antecipada**, no início de cada mês. A comissão continua no boleto do dia 05, referente ao mês anterior | Sócios (sessão Comercial) |
+| 18/11/2026 | **Teste completo** (60 h em 22 dias) mesmo só por comissão: gera conteúdo e mostra ao mercado a estrutura e o trabalho | Sócios (sessão Comercial) |
+| 18/11/2026 | Gestão fica em **R$ 3.000** no início, só para cobrir custos. Sobe depois que a Casa tiver nome no mercado e cases | Sócios (sessão Comercial) |
+| 18/11/2026 | **Comissão pela margem do cliente:** revenda **8%**, fabricante **10% a 12%** | Sócios (sessão Comercial) |
+| 18/11/2026 | **Meta de GMV das nossas lives: R$ 100 mil por mês por cliente.** Marca sem potencial para isso não é interessante | Sócios (sessão Comercial) |
+| 18/11/2026 | Primeiros clientes, enquanto não houver cases: os sócios também usam indicação e contatos próprios | Sócios (sessão Comercial) |

@@ -6,7 +6,7 @@
 ---
 
 ## 1. A ideia
-**Uma casa de lives que vende pelas marcas.** A marca manda o produto e nós fazemos as lives de venda e os vídeos curtos no TikTok Shop. Cuidamos de estúdio, apresentador (host), moderação, roteiro e relatório. No teste de 30 dias cobramos só comissão (8% a 12%). Aprovado o teste, o contrato de 6 meses tem gestão mensal de R$ 3.000 mais a comissão.
+**Uma casa de lives que vende pelas marcas.** A marca manda o produto e nós fazemos as lives de venda e os vídeos curtos no TikTok Shop. Cuidamos de estúdio, apresentador (host), moderação, roteiro e relatório. No teste de 30 dias cobramos só comissão (8% a 12%). Aprovado o teste, o contrato (3 meses, depois renovações de 6) tem gestão mensal de R$ 3.000, paga antecipada, mais a comissão.
 
 **Por que agora:**
 - O TikTok Shop está crescendo rápido no Brasil e a maioria das marcas não sabe fazer live.
@@ -39,8 +39,8 @@
 ## 3. Modelo comercial [DECIDIDO]
 | Fase do cliente | Cobrança |
 |---|---|
-| **Teste (30 dias)** [DECIDIDO] | **Só comissão de 8% a 12%** (negociada e gravada por cliente) sobre as vendas das nossas lives, líquidas de cancelamentos e devoluções |
-| **Contrato de 6 meses (teste aprovado)** [DECIDIDO] | Gestão de R$ 3.000 + comissão de 8% a 12%. Multa se o cliente cancelar: valor integral dos meses restantes. Sem multa se a Casa não entregar as horas |
+| **Teste (30 dias)** [DECIDIDO] | **Só comissão: revenda 8%, fabricante 10% a 12%** (negociada e gravada por cliente) sobre as vendas das nossas lives, líquidas de cancelamentos e devoluções |
+| **Contrato (teste aprovado): 3 meses, depois renovações de 6** [DECIDIDO] | Gestão de R$ 3.000, paga antecipada, + comissão. Multa se o cliente cancelar: 30% a 50% dos meses restantes. Sem multa se a Casa não entregar as horas |
 
 **O que está incluso:** no mínimo 60 h de live por mês em pelo menos 22 dias, vendedor exclusivo da marca, studio da marca, vários perfis de vendedores para teste, plataforma de UGC e lojas de vendedores afiliados. As condições de cada cliente ficam no CRM (aba Leads) e no contrato dele. Detalhes de contrato, vendedores e canais em 11-estrutura-comercial.
 
@@ -92,10 +92,10 @@ O repositório GitHub `casa-live` guarda a mesma documentação em Markdown, par
 - [ ] 3 clientes de teste com lives semanais. **Black Friday (27/11) e Natal** como primeiras campanhas
 - [ ] Relatório por live em D+1 e semanal toda segunda
 - [ ] Primeiras automações: formulário → CRM, agenda → lembretes, registro de live → relatório
-- [ ] Fechamento do teste de cada cliente e contrato de 6 meses
+- [ ] Fechamento do teste de cada cliente e primeiro contrato (3 meses)
 
 ### Fase 2 — Recorrência (jan a fev/2027)
-- [ ] Converter 3 clientes de teste para o contrato de 6 meses. Meta: 5 pagantes
+- [ ] Converter 3 clientes de teste para o contrato. Meta: 5 pagantes
 - [ ] O Felipe em tempo integral (desde o fim de dezembro)
 - [ ] Cobrança automatizada (Pix/boleto + nota fiscal)
 - [ ] Integração com a API do TikTok Shop para puxar vendas automaticamente [A VERIFICAR]
@@ -119,7 +119,7 @@ Só avança se atingir os critérios abaixo.
   - conteúdo e Meta Ads levando para a landing page com cadastro;
   - indicações (Gustavo, contatos da fábrica), pelo mesmo cadastro;
   - o Felipe analisa o cadastro e só entra em contato se fizer sentido.
-- **Prova social:** cada cliente de teste vira um case com números. É o principal ativo para vender o contrato de 6 meses.
+- **Prova social:** cada cliente de teste vira um case com números. É o principal ativo para vender o contrato.
 
 ## 8. Governança
 - **Reunião semanal de 45 min (segunda):**
@@ -139,8 +139,8 @@ Só avança se atingir os critérios abaixo.
 | Clientes em teste | 3 |
 | Lives realizadas | 60 h e 22 dias de live por cliente por mês (mínimo do contrato) |
 | Relatórios entregues em D+1 | 100% |
-| GMV médio por live | Medir. Definir a meta depois das 5 primeiras |
-| Clientes que aceitam o contrato de 6 meses | 2 de 3 |
+| GMV médio por live | Medir. Meta por cliente: R$ 100 mil de GMV por mês nas nossas lives |
+| Clientes que fecham o contrato após o teste | 2 de 3 |
 | Seguidores na conta TikTok da agência | Medir |
 
 ## 10. Riscos principais

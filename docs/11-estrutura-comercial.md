@@ -2,7 +2,7 @@
 
 > Versão 1, de 18/11/2026. Passada pelos sócios na sessão Comercial.
 > Legenda: **[DECIDIDO]** = dito pelos sócios · **[A DEFINIR]** = ainda em aberto · **[A VERIFICAR]** = depende de advogado, contador ou plataforma · **[SIMULAÇÃO]** = conta feita a partir dos números decididos, não é fato.
-> Mantém o teste só por comissão (decisão de 17/11) e define os valores do contrato de 6 meses.
+> Mantém o teste só por comissão (decisão de 17/11) e define os valores do contrato (3 meses, depois renovações de 6).
 
 ---
 
@@ -10,8 +10,8 @@
 
 | Item | Regra |
 |---|---|
-| **Gestão mensal** | **R$ 3.000,00** por mês, só no contrato de 6 meses. O teste de 30 dias não tem gestão |
-| **Comissão** | **8% a 12%** sobre as vendas das nossas lives. A taxa é negociada e gravada **por cliente** no CRM |
+| **Gestão mensal** | **R$ 3.000,00** por mês, só no contrato (não no teste), paga antecipada no início de cada mês. É o valor de entrada, só para cobrir custos: sobe depois que a Casa tiver nome no mercado e cases |
+| **Comissão** | **8% a 12%** sobre as vendas das nossas lives, conforme a margem do cliente: revenda 8%, fabricante 10% a 12%. A taxa é gravada **por cliente** no CRM |
 | **Para que serve a gestão** | Só para os custos operacionais: aluguel, água, luz, internet, estrutura e o **vendedor exclusivo** da marca em todas as lives |
 | **Preço dos produtos** | O valor de venda é o que o cliente define. Toda promoção é aprovada pelo responsável do cliente |
 
@@ -29,17 +29,17 @@
 | Fase | Duração | Cobrança |
 |---|---|---|
 | **Teste** | **30 dias** (1 mês) | **Só comissão** (8% a 12%), sem gestão |
-| **Contrato** (se o teste for aprovado) | **6 meses** | Gestão R$ 3.000 + comissão do cliente |
+| **Contrato** (se o teste for aprovado) | **3 meses**; depois, renovações de **6 meses** | Gestão R$ 3.000 (antecipada) + comissão do cliente |
 
-Por que 30 dias de teste: pouco tempo gera volume baixo de vendas, o que não é vantajoso nem para a Casa nem para o vendedor.
+Por que 30 dias de teste: pouco tempo gera volume baixo de vendas, o que não é vantajoso nem para a Casa nem para o vendedor. O teste também gera valor para a Casa: studios cheios e lives acontecendo viram conteúdo para mostrar ao mercado a estrutura e o trabalho. Por isso o teste mantém as 60 h em 22 dias, mesmo sem gestão.
 
 **Regras do contrato:**
 
-- **Cobrança:** boleto **todo dia 05**, referente ao fechamento do mês anterior (comissão e, no contrato, a gestão).
+- **Cobrança:** boleto **todo dia 05**, referente à comissão do mês anterior. A gestão do contrato é paga antecipada, no início de cada mês.
 - **Inadimplência:** boleto não pago, **as lives são interrompidas imediatamente**.
-- **Multa por cancelamento do cliente:** **valor integral de todos os meses restantes** do contrato.
-  - [A DEFINIR] A base é só a gestão (R$ 3.000 × meses restantes)? A comissão futura não tem como ser calculada.
-  - [A VERIFICAR com advogado] Multa de 100% pode ser reduzida pelo juiz se for considerada excessiva (art. 413 do Código Civil). Vale o advogado revisar a redação.
+- **Multa por cancelamento do cliente:** **30% a 50% do valor dos meses restantes** do contrato.
+  - [A DEFINIR] O percentual exato (entre 30% e 50%) e a base: só a gestão (R$ 3.000 × meses restantes)? A comissão futura não tem como ser calculada.
+  - [A VERIFICAR com advogado] Revisar a redação da multa (o juiz pode reduzir multa considerada excessiva, art. 413 do Código Civil).
 - **Se a Casa não entregar as horas do contrato:** o cliente pode cancelar **sem multa**.
   - [A DEFINIR] O que conta como não entregar: um mês abaixo de 60 h ou de 22 dias já basta?
 - **Assinatura digital** (ZapSign, Autentique ou similar).
@@ -64,7 +64,7 @@ Por que 30 dias de teste: pouco tempo gera volume baixo de vendas, o que não é
 | **Vínculo** | Freelancer |
 | **Pagamento por live** | **R$ 100,00 por live de no mínimo 3 h** |
 | **Comissão** | **3% sobre o GMV gerado na live** |
-| **Quando recebe os R$ 100** | Junto com o pagamento da gestão pelo cliente (contrato de 6 meses). No teste não há vendedor pago (ver 3.5) |
+| **Quando recebe os R$ 100** | Junto com o pagamento da gestão pelo cliente (contrato). No teste não há vendedor pago (ver 3.5) |
 | **Quem paga a comissão de 3%** | A Casa (sai da comissão que recebemos do cliente) |
 | **Comunidade de vendedores** | Os vendedores formam uma comunidade e podem ser trocados e testados entre as empresas |
 
@@ -102,7 +102,7 @@ Conteúdo + Meta Ads + indicação → Landing page → Cadastro do cliente → 
 1. **Conteúdo** (perfis da Casa) e **Meta Ads** levam a marca para a **landing page**.
 2. Na landing page, a marca faz o **cadastro** (o formulário "Quero live" já cai no CRM pela automação A1).
 3. **Indicação** entra pelo mesmo cadastro.
-4. O Felipe analisa o cadastro com o checklist de qualificação (nota até 100). Só entra em contato se fizer sentido para nós.
+4. O Felipe analisa o cadastro com o checklist de qualificação (nota até 100). Só entra em contato se fizer sentido para nós. Critério principal: a marca precisa ter potencial para as nossas lives gerarem pelo menos R$ 100 mil de GMV por mês. Abaixo disso, não é interessante. Nos primeiros clientes, enquanto não houver cases, os sócios também usam indicação e contatos próprios.
 
 ## 5. Acompanhamento do cliente [DECIDIDO]
 **Todo dia de live, no grupo de WhatsApp do cliente:**
@@ -122,7 +122,7 @@ Felipe cuida de relacionamento, revisão mensal, upsell, renovação e retençã
 ## 7. Contas por cliente [SIMULAÇÃO]
 Feita só com os números decididos. Não inclui impostos nem taxa de boleto [A VERIFICAR com contador].
 
-**Gestão (R$ 3.000/mês, só no contrato de 6 meses):**
+**Gestão (R$ 3.000/mês, só no contrato):**
 
 - Para cumprir 60 h em 22 dias com lives de 3 h: **22 lives por mês** (66 h).
 - Vendedor: 22 × R$ 100 = **R$ 2.200**.
@@ -137,21 +137,21 @@ Feita só com os números decididos. Não inclui impostos nem taxa de boleto [A 
 | 10% | R$ 1.000 | R$ 300 | R$ 700 (7%) |
 | 12% | R$ 1.200 | R$ 300 | R$ 900 (9%) |
 
-**Capacidade:** cada cliente ocupa cerca de 22 lives por mês. Com 3 clientes, são cerca de 66 lives por mês, perto de 3 por dia útil. Isso pede estúdios e vendedores em paralelo. No começo, as lives dos testes ficam com os sócios: com 3 clientes em teste ao mesmo tempo, são cerca de 66 lives por mês para os sócios fazerem.
+**Capacidade:** cada cliente ocupa cerca de 22 lives por mês. Com 3 clientes, são cerca de 66 lives por mês, perto de 3 por dia útil. Isso pede estúdios e vendedores em paralelo. No começo, as lives dos testes ficam com os sócios: com 3 clientes em teste ao mesmo tempo, são cerca de 66 lives por mês para os sócios fazerem. Projeção dos sócios com 20 clientes (hipótese): sobra da gestão de cerca de R$ 800 × 20 = R$ 16.000 por mês, para aluguel maior e estrutura. Com a meta de R$ 100 mil de GMV por cliente e comissão média de 7%: R$ 7.000 por cliente, ou R$ 140.000 por mês com 20 clientes, sem contar os vídeos curtos.
 
 ## 8. Impacto nas outras áreas
 
 | Área | O que muda |
 |---|---|
 | **Operação** | Relatório diário no grupo do cliente (seção 5). Controle de horas e dias por cliente (mínimo de 60 h e 22 dias). Escala de vendedores freelancers (contrato) e dos sócios (teste) |
-| **Financeiro** | Teste só por comissão; gestão a partir do contrato de 6 meses. Boleto no dia 05 do mês seguinte (pós-pago). Pagamento dos vendedores: R$ 100 por live + 3% do GMV |
+| **Financeiro** | Teste só por comissão. No contrato, gestão antecipada no início do mês; comissão no boleto do dia 05 do mês seguinte. Pagamento dos vendedores: R$ 100 por live + 3% do GMV |
 | **Automação** | Landing page + cadastro (A1 já existe). Relatório diário automático. Cálculo do pagamento dos vendedores |
 | **Marketing** | Conteúdo e Meta Ads como canal principal |
 
 ## 9. Pendências
 
 - [ ] Respostas dos itens [A DEFINIR] acima.
-- [ ] Advogado: revisar multa, contrato de freelancer e modelos de contrato (teste e 6 meses).
-- [ ] Modelos: proposta, acordo de teste (1 mês) e contrato de 6 meses.
+- [ ] Advogado: revisar multa, contrato de freelancer e modelos de contrato (teste, contrato de 3 meses e renovação de 6).
+- [ ] Modelos: proposta, acordo de teste (1 mês), contrato de 3 meses e renovação de 6 meses.
 - [ ] Landing page e campanha de Meta Ads.
 - [ ] Metas.

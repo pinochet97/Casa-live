@@ -27,7 +27,7 @@ Também estão na mesa:
 - PDF Central Marketplaces, Proposta: `1DNX8irTTJ--u67UvqVs5IvsBuaUEy4URoMuI4eB87Ns`
 
 ## Foco atual (17/11/2026)
-Casa Live no modelo LiveHouse: teste de 30 dias só por comissão (8% a 12% por cliente) e, aprovado, contrato de 6 meses com gestão de R$ 3.000/mês + comissão (ver `docs/11-estrutura-comercial.md`). A Vyre (só para captar creators e produzir vídeos) e a Central Marketplaces ficam para depois.
+Casa Live no modelo LiveHouse: teste de 30 dias só por comissão (8% a 12% por cliente) e, aprovado, contrato de 3 meses (depois renovações de 6) com gestão de R$ 3.000/mês antecipada + comissão (revenda 8%, fabricante 10% a 12%) (ver `docs/11-estrutura-comercial.md`). A Vyre (só para captar creators e produzir vídeos) e a Central Marketplaces ficam para depois.
 
 ## Estrutura no Google Drive (pasta "Casa Live" `107wGjd6t81x43IFFQVbmSMx7Vz5zhYfJ`)
 | Item | ID |
