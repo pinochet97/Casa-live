@@ -37,11 +37,11 @@ Por que 30 dias de teste: pouco tempo gera volume baixo de vendas, o que não é
 
 - **Cobrança:** boleto **todo dia 05**, referente à comissão do mês anterior. A gestão do contrato é paga antecipada, no início de cada mês.
 - **Inadimplência:** boleto não pago, **as lives são interrompidas imediatamente**.
-- **Multa por cancelamento do cliente:** **30% a 50% do valor dos meses restantes** do contrato.
-  - [A DEFINIR] O percentual exato (entre 30% e 50%) e a base: só a gestão (R$ 3.000 × meses restantes)? A comissão futura não tem como ser calculada.
+- **Multa por cancelamento do cliente:** **50% do valor dos meses restantes** do contrato.
+  - [A DEFINIR] A base: só a gestão (R$ 3.000 × meses restantes)? A comissão futura não tem como ser calculada.
   - [A VERIFICAR com advogado] Revisar a redação da multa (o juiz pode reduzir multa considerada excessiva, art. 413 do Código Civil).
 - **Se a Casa não entregar as horas do contrato:** o cliente pode cancelar **sem multa**.
-  - [A DEFINIR] O que conta como não entregar: um mês abaixo de 60 h ou de 22 dias já basta?
+  - Não entregar = mês com menos horas ou dias de live do que o contratado (60 h em 22 dias).
 - **Assinatura digital** (ZapSign, Autentique ou similar).
 - Quem assina pela Casa: o titular do CNPJ (Felipe), até o Kaio entrar no contrato social.
 
@@ -72,7 +72,7 @@ Por que 30 dias de teste: pouco tempo gera volume baixo de vendas, o que não é
 
 - Live com menos de 3 h: paga proporcional, não paga ou não acontece?
 - A comissão de 3% é sobre o GMV bruto ou líquido (descontando cancelamentos e devoluções, como na cobrança do cliente)? Sugestão: líquido, igual ao cliente.
-- Em que dia a comissão é paga ao vendedor? Sugestão: depois que o cliente paga o boleto do dia 05.
+- [DECIDIDO] A comissão de 3% é paga ao vendedor no dia 05 do mês seguinte, junto com a nossa comissão.
 - Se o cliente não pagar, o vendedor recebe mesmo assim?
 - [A VERIFICAR com contador e advogado] Formato do freelancer (MEI com nota, RPA) e contrato de prestação de serviço, para não virar vínculo trabalhista.
 

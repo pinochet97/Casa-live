@@ -40,7 +40,7 @@
 | Fase do cliente | Cobrança |
 |---|---|
 | **Teste (30 dias)** [DECIDIDO] | **Só comissão: revenda 8%, fabricante 10% a 12%** (negociada e gravada por cliente) sobre as vendas das nossas lives, líquidas de cancelamentos e devoluções |
-| **Contrato (teste aprovado): 3 meses, depois renovações de 6** [DECIDIDO] | Gestão de R$ 3.000, paga antecipada, + comissão. Multa se o cliente cancelar: 30% a 50% dos meses restantes. Sem multa se a Casa não entregar as horas |
+| **Contrato (teste aprovado): 3 meses, depois renovações de 6** [DECIDIDO] | Gestão de R$ 3.000, paga antecipada, + comissão. Multa se o cliente cancelar: 50% dos meses restantes. Sem multa se a Casa não entregar as horas |
 
 **O que está incluso:** no mínimo 60 h de live por mês em pelo menos 22 dias, vendedor exclusivo da marca, studio da marca, vários perfis de vendedores para teste, plataforma de UGC e lojas de vendedores afiliados. As condições de cada cliente ficam no CRM (aba Leads) e no contrato dele. Detalhes de contrato, vendedores e canais em 11-estrutura-comercial.
 

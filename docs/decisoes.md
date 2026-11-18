@@ -45,3 +45,6 @@
 | 18/11/2026 | **Comissão pela margem do cliente:** revenda **8%**, fabricante **10% a 12%** | Sócios (sessão Comercial) |
 | 18/11/2026 | **Meta de GMV das nossas lives: R$ 100 mil por mês por cliente.** Marca sem potencial para isso não é interessante | Sócios (sessão Comercial) |
 | 18/11/2026 | Primeiros clientes, enquanto não houver cases: os sócios também usam indicação e contatos próprios | Sócios (sessão Comercial) |
+| 18/11/2026 | **Multa** se o cliente cancelar: **50%** dos meses restantes (substitui a faixa de 30% a 50%) | Sócios (sessão Comercial) |
+| 18/11/2026 | Se a Casa não entregar as horas do contrato (60 h em 22 dias no mês), o cliente pode cancelar **sem multa** | Sócios (sessão Comercial) |
+| 18/11/2026 | A comissão de 3% do vendedor é paga no **dia 05 do mês seguinte**, junto com a nossa comissão | Sócios (sessão Comercial) |

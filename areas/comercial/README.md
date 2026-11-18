@@ -17,7 +17,7 @@ Padrão brasileiro (pt_BR, fuso de São Paulo). Nas fórmulas, o separador é `;
 | Onboarding | Caixas de seleção do E2/E3. Mostra os 3 OKs (Comercial, Conteúdo, Técnico) e "Pronto para a 1ª live" | Duda |
 | Painel | Quantidade por etapa, vagas de teste livres (limite 3), nota média, próximas ações vencidas | automático |
 | Listas | Opções dos menus: **Responsáveis** e **Taxas de comissão**. São só sugestões de menu: cadastre aqui na primeira linha vazia (taxa com %, ex.: 12%). Também dá para digitar uma taxa direto na linha do cliente | Felipe/Kaio |
-| Parâmetros | Notas de corte, limite de testes, dias do teste, **tabela comercial de referência** (teste só por comissão; revenda 8%, fabricante 10% a 12%; contrato de 3 meses e renovações de 6 com gestão de R$ 3.000 antecipada + comissão; multa de 30% a 50%; meta de R$ 100 mil de GMV por cliente; 60 h em 22 dias; boleto dia 05, vendedor R$ 100 por live + 3%), lista de etapas e donos. É só referência: nenhuma conta dos clientes depende dela | Kaio/Felipe |
+| Parâmetros | Notas de corte, limite de testes, dias do teste, **tabela comercial de referência** (teste só por comissão; revenda 8%, fabricante 10% a 12%; contrato de 3 meses e renovações de 6 com gestão de R$ 3.000 antecipada + comissão; multa de 50%; meta de R$ 100 mil de GMV por cliente; 60 h em 22 dias; boleto dia 05, vendedor R$ 100 por live + 3%), lista de etapas e donos. É só referência: nenhuma conta dos clientes depende dela | Kaio/Felipe |
 
 - **ID do lead:** `LEAD-001`, `LEAD-002`… Mesmo ID nas três abas.
 - Cabeçalho azul = preencher. Cabeçalho cinza "(auto)" = fórmula, não digitar.
