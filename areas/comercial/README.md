@@ -12,12 +12,12 @@ Padrão brasileiro (pt_BR, fuso de São Paulo). Nas fórmulas, o separador é `;
 | Aba | Para quê | Quem preenche |
 |---|---|---|
 | Como usar | Passo a passo e legenda | — |
-| Leads | Uma linha por marca: contato, origem, **Etapa** (lista E0 a E9, Encerrado, Futuro), próxima ação, prazo, responsável, início do teste e **condições do cliente**: comissão do teste, horas mínimas, gestão mensal, comissão do contrato de 6 meses, início e meses de contrato. Calcula sozinha a nota, a decisão, as datas dos dias 20, 25 e 30 do teste e o fim do contrato | Felipe |
+| Leads | Uma linha por marca: contato, origem, **Etapa** (lista E0 a E9, Encerrado, Futuro), próxima ação, prazo, responsável, início do teste e **condições do cliente**: comissão do teste, horas mínimas, gestão mensal no contrato, comissão do contrato de 6 meses, início e meses de contrato. Calcula sozinha a nota, a decisão, as datas dos dias 20, 25 e 30 do teste e o fim do contrato | Felipe |
 | Qualificação | Checklist de 100 pontos do E1 (limite de nota por critério). Calcula a nota e a decisão (≥ 70 segue; 50 a 69 só com vaga; < 50 recusar) | Felipe |
 | Onboarding | Caixas de seleção do E2/E3. Mostra os 3 OKs (Comercial, Conteúdo, Técnico) e "Pronto para a 1ª live" | Duda |
 | Painel | Quantidade por etapa, vagas de teste livres (limite 3), nota média, próximas ações vencidas | automático |
 | Listas | Opções dos menus: **Responsáveis** e **Taxas de comissão**. São só sugestões de menu: cadastre aqui na primeira linha vazia (taxa com %, ex.: 12%). Também dá para digitar uma taxa direto na linha do cliente | Felipe/Kaio |
-| Parâmetros | Notas de corte, limite de testes, dias do teste, **tabela comercial de referência** (gestão R$ 3.000, comissão 8% a 12%, 60 h em 22 dias, contrato de 6 meses, boleto dia 05, vendedor R$ 100 por live + 3%), lista de etapas e donos. É só referência: nenhuma conta dos clientes depende dela | Kaio/Felipe |
+| Parâmetros | Notas de corte, limite de testes, dias do teste, **tabela comercial de referência** (teste só por comissão de 8% a 12%; contrato de 6 meses com gestão de R$ 3.000 + comissão; 60 h em 22 dias; boleto dia 05, vendedor R$ 100 por live + 3%), lista de etapas e donos. É só referência: nenhuma conta dos clientes depende dela | Kaio/Felipe |
 
 - **ID do lead:** `LEAD-001`, `LEAD-002`… Mesmo ID nas três abas.
 - Cabeçalho azul = preencher. Cabeçalho cinza "(auto)" = fórmula, não digitar.

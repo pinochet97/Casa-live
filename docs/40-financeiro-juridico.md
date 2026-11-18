@@ -44,10 +44,10 @@ O CNPJ está só com o Felipe, então o acordo protege os dois. Ele precisa defi
 - Outros
 
 ## 4. Receita e comissão
-- **Teste (30 dias) e contrato de 6 meses:** gestão de R$ 3.000 + comissão de 8% a 12% (taxa por cliente, ver CRM) sobre o GMV líquido das nossas lives.
+- **Teste (30 dias) e contrato de 6 meses:** teste só por comissão (8% a 12%, taxa por cliente, ver CRM) sobre o GMV líquido das nossas lives; no contrato de 6 meses, gestão de R$ 3.000 + comissão.
 - **Cobrança:**
-  - boleto no dia 05 com a gestão e a comissão do mês anterior (pós-pago);
-  - boleto não pago: lives interrompidas imediatamente. Vendedores de live: R$ 100 por live (mínimo de 3 h), pagos com a gestão do cliente, + 3% do GMV da live, pagos pela Casa (ver 11-estrutura-comercial).
+  - boleto no dia 05 com a comissão (e, no contrato, a gestão) do mês anterior (pós-pago);
+  - boleto não pago: lives interrompidas imediatamente. Vendedores de live: R$ 100 por live (mínimo de 3 h), pagos com a gestão do cliente (no teste não há gestão: a definir), + 3% do GMV da live, pagos pela Casa (ver 11-estrutura-comercial).
 - **Demonstrativo de comissão:** lista de lives (ID, data, GMV, cancelamentos e devoluções, GMV líquido) × % = valor. Vai junto com o relatório mensal.
 - **Rota de afiliado:** a comissão é paga pelo TikTok Shop na nossa conta. Registrar como receita separada.
 - **Cobrança:** Pix/boleto com vencimento no dia 5, via plataforma com emissão de NFS-e integrada (ex.: Asaas). [A VERIFICAR: tarifas]
@@ -70,9 +70,9 @@ Convenções: texto azul = campo para digitar; texto preto = fórmula (não digi
 | Listas | Opções dos menus: categorias, quem pagou, formas de pagamento, tipos de receita, **clientes** (cadastrar o cliente aqui antes de lançar receita ou comissão) |
 
 ## 6. Contratos (modelos a criar na pasta 05)
-1. **Acordo de teste (30 dias, gestão + comissão)**, com estes pontos:
+1. **Acordo de teste (30 dias, só comissão)**, com estes pontos:
    - escopo: mínimo de 60 h de live em pelo menos 22 dias no mês, conta da marca, vendedor exclusivo;
-   - gestão de R$ 3.000 + comissão de [X]% (8% a 12%, combinada com o cliente) sobre o GMV líquido atribuído às nossas lives, com fonte = painel TikTok Shop e conferência conjunta;
+   - comissão de [X]% (8% a 12%, combinada com o cliente) sobre o GMV líquido atribuído às nossas lives, com fonte = painel TikTok Shop e conferência conjunta;
    - boleto no dia 05, referente ao mês anterior; não pago, lives interrompidas;
    - responsabilidades do cliente: preço, estoque, envio, nota, pós-venda, veracidade das informações do produto;
    - nossas responsabilidades: estrutura, host, moderação, roteiro, relatório;
@@ -82,6 +82,6 @@ Convenções: texto azul = campo para digitar; texto preto = fórmula (não digi
    - acesso à conta: concedido e revogável pelo cliente, sem senha pessoal;
    - **condições do contrato de 6 meses** já informadas;
    - encerramento livre ao fim do teste.
-2. **Contrato de prestação de serviço (6 meses, após o teste):** gestão + comissão, 60 h em 22 dias por mês, multa do cliente = valor integral dos meses restantes [A VERIFICAR com advogado], cancelamento sem multa se a Casa não entregar as horas, inadimplência (interrupção imediata), reajuste.
+2. **Contrato de prestação de serviço (6 meses, após o teste):** gestão de R$ 3.000 + comissão, 60 h em 22 dias por mês, multa do cliente = valor integral dos meses restantes [A VERIFICAR com advogado], cancelamento sem multa se a Casa não entregar as horas, inadimplência (interrupção imediata), reajuste.
 3. **Termo de uso de imagem** para hosts e creators externos, e contrato de prestação de serviço do vendedor de live freelancer (R$ 100 por live + 3% do GMV).
 - **Assinatura digital** (ZapSign, Autentique ou similar, com API).

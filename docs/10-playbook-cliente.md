@@ -53,7 +53,7 @@
 **Saída:** nota no CRM + decisão + os 3 a 5 SKUs candidatos.
 
 ## E2 — Fechamento do teste
-1. Enviar a proposta de teste (modelo M2): 30 dias, gestão de R$ 3.000, comissão combinada com o cliente (8% a 12%), mínimo de 60 h de live em pelo menos 22 dias, e o aviso de que, aprovado o teste, segue contrato de 6 meses. Registrar no CRM (aba Leads) a gestão e a comissão combinadas. Ficam gravadas só na linha desse cliente.
+1. Enviar a proposta de teste (modelo M2): 30 dias só por comissão (taxa combinada com o cliente, de 8% a 12%), mínimo de 60 h de live em pelo menos 22 dias, e o aviso de que, aprovado o teste, segue contrato de 6 meses com gestão de R$ 3.000 + comissão. Registrar no CRM (aba Leads) a comissão combinada. Ficam gravadas só na linha desse cliente.
 2. Enviar o **acordo de teste** (modelo em `40-financeiro-juridico`) por assinatura digital.
 3. Criar a pasta do cliente no Drive: `08 Clientes/<Marca>/` com Acordo, Fichas, Relatórios e Mídia.
 4. Criar o grupo de WhatsApp "<Marca> x Casa Live", com o decisor e o responsável pela operação.
@@ -127,7 +127,7 @@ Diário (todo dia de live, no grupo do cliente): vídeo da live acontecendo, pri
 **Automação:** registro preenchido → Claude gera o texto do relatório → PDF ou mensagem → envio no grupo.
 
 ## E7 — Cobrança
-1. No dia 1, apurar o mês anterior: gestão (coluna "Gestão mensal (R$)" no CRM) + comissão (GMV das nossas lives menos cancelamentos e devoluções, vezes a taxa do cliente: coluna "Comissão do teste (%)" ou "Comissão contrato 6 meses (%)"). Usar a exportação do painel.
+1. No dia 1, apurar o mês anterior: gestão, só no contrato de 6 meses (coluna "Gestão mensal no contrato (R$)" no CRM), + comissão (GMV das nossas lives menos cancelamentos e devoluções, vezes a taxa do cliente: coluna "Comissão do teste (%)" ou "Comissão contrato 6 meses (%)"). Usar a exportação do painel.
 2. Enviar o demonstrativo para conferência. O cliente tem 2 dias para contestar.
 3. Emitir a cobrança (Pix/boleto) e a nota fiscal de serviço. Vencimento no dia 5.
 4. Lembretes automáticos: D-1, no vencimento e D+3.
@@ -167,8 +167,8 @@ Diário (todo dia de live, no grupo do cliente): vídeo da live acontecendo, pri
 > Fechado, [nome]! Proposta do teste:
 > • 30 dias de teste, com no mínimo 60 h de live em pelo menos 22 dias, na conta de vocês
 > • Studio da marca, vendedor exclusivo, roteiro e acompanhamento diário no grupo (vídeo da live, GMV, horas e itens vendidos)
-> • Gestão de R$ 3.000 + comissão de [X]% sobre as vendas das lives (líquidas de cancelamentos e devoluções)
-> • Aprovado o teste, seguimos com contrato de 6 meses nas mesmas condições
+> • Comissão de [X]% sobre as vendas das lives (líquidas de cancelamentos e devoluções)
+> • Aprovado o teste, seguimos com contrato de 6 meses: gestão de R$ 3.000/mês + comissão
 > Te mando o acordo para assinar e o formulário de cadastro dos produtos.
 
 **M3 — Lembrete D-1**

@@ -2,7 +2,7 @@
 
 > Versão 1, de 18/11/2026. Passada pelos sócios na sessão Comercial.
 > Legenda: **[DECIDIDO]** = dito pelos sócios · **[A DEFINIR]** = ainda em aberto · **[A VERIFICAR]** = depende de advogado, contador ou plataforma · **[SIMULAÇÃO]** = conta feita a partir dos números decididos, não é fato.
-> Este documento substitui o modelo "mês 1 só comissão" (decisão de 17/11) e a ideia de "valores do mês 2 a definir".
+> Mantém o teste só por comissão (decisão de 17/11) e define os valores do contrato de 6 meses.
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Item | Regra |
 |---|---|
-| **Gestão mensal** | **R$ 3.000,00** por mês, já no mês de teste |
+| **Gestão mensal** | **R$ 3.000,00** por mês, só no contrato de 6 meses. O teste de 30 dias não tem gestão |
 | **Comissão** | **8% a 12%** sobre as vendas das nossas lives. A taxa é negociada e gravada **por cliente** no CRM |
 | **Para que serve a gestão** | Só para os custos operacionais: aluguel, água, luz, internet, estrutura e o **vendedor exclusivo** da marca em todas as lives |
 | **Preço dos produtos** | O valor de venda é o que o cliente define. Toda promoção é aprovada pelo responsável do cliente |
@@ -28,14 +28,14 @@
 
 | Fase | Duração | Cobrança |
 |---|---|---|
-| **Teste** | **30 dias** (1 mês) | Gestão R$ 3.000 + comissão do cliente |
+| **Teste** | **30 dias** (1 mês) | **Só comissão** (8% a 12%), sem gestão |
 | **Contrato** (se o teste for aprovado) | **6 meses** | Gestão R$ 3.000 + comissão do cliente |
 
-Por que o teste tem gestão: volume baixo de vendas não é vantajoso nem para a Casa nem para o vendedor.
+Por que 30 dias de teste: pouco tempo gera volume baixo de vendas, o que não é vantajoso nem para a Casa nem para o vendedor.
 
 **Regras do contrato:**
 
-- **Cobrança:** boleto **todo dia 05**, referente ao fechamento do mês anterior (gestão + comissão).
+- **Cobrança:** boleto **todo dia 05**, referente ao fechamento do mês anterior (comissão e, no contrato, a gestão).
 - **Inadimplência:** boleto não pago, **as lives são interrompidas imediatamente**.
 - **Multa por cancelamento do cliente:** **valor integral de todos os meses restantes** do contrato.
   - [A DEFINIR] A base é só a gestão (R$ 3.000 × meses restantes)? A comissão futura não tem como ser calculada.
@@ -64,7 +64,7 @@ Por que o teste tem gestão: volume baixo de vendas não é vantajoso nem para a
 | **Vínculo** | Freelancer |
 | **Pagamento por live** | **R$ 100,00 por live de no mínimo 3 h** |
 | **Comissão** | **3% sobre o GMV gerado na live** |
-| **Quando recebe os R$ 100** | Junto com o pagamento da gestão pelo cliente |
+| **Quando recebe os R$ 100** | Junto com o pagamento da gestão pelo cliente. [A DEFINIR] No teste não há gestão: quem paga os R$ 100? |
 | **Quem paga a comissão de 3%** | A Casa (sai da comissão que recebemos do cliente) |
 | **Comunidade de vendedores** | Os vendedores formam uma comunidade e podem ser trocados e testados entre as empresas |
 
@@ -116,12 +116,12 @@ Felipe cuida de relacionamento, revisão mensal, upsell, renovação e retençã
 ## 7. Contas por cliente [SIMULAÇÃO]
 Feita só com os números decididos. Não inclui impostos nem taxa de boleto [A VERIFICAR com contador].
 
-**Gestão (R$ 3.000/mês):**
+**Gestão (R$ 3.000/mês, só no contrato de 6 meses):**
 
 - Para cumprir 60 h em 22 dias com lives de 3 h: **22 lives por mês** (66 h).
 - Vendedor: 22 × R$ 100 = **R$ 2.200**.
 - **Sobram cerca de R$ 800 por cliente** para aluguel, água, luz, internet e estrutura.
-- Atenção: se o vendedor fizer mais lives (ex.: 2 por dia), a gestão não cobre.
+- Atenção: se o vendedor fizer mais lives (ex.: 2 por dia), a gestão não cobre. No teste não há gestão: os cerca de R$ 2.200 do vendedor saem do caixa da Casa ou da comissão do mês [A DEFINIR].
 
 **Comissão (exemplo com R$ 10.000 de GMV no mês):**
 
@@ -138,7 +138,7 @@ Feita só com os números decididos. Não inclui impostos nem taxa de boleto [A 
 | Área | O que muda |
 |---|---|
 | **Operação** | Relatório diário no grupo do cliente (seção 5). Controle de horas e dias por cliente (mínimo de 60 h e 22 dias). Escala de vendedores freelancers |
-| **Financeiro** | Gestão já no mês 1. Boleto no dia 05 do mês seguinte (pós-pago). Pagamento dos vendedores: R$ 100 por live + 3% do GMV |
+| **Financeiro** | Teste só por comissão; gestão a partir do contrato de 6 meses. Boleto no dia 05 do mês seguinte (pós-pago). Pagamento dos vendedores: R$ 100 por live + 3% do GMV |
 | **Automação** | Landing page + cadastro (A1 já existe). Relatório diário automático. Cálculo do pagamento dos vendedores |
 | **Marketing** | Conteúdo e Meta Ads como canal principal |
 

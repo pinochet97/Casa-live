@@ -7,7 +7,7 @@
 | 17/11/2026 | Montar os primeiros estúdios no apartamento do Kaio, com os próprios sócios como hosts | Kaio e Felipe |
 | 17/11/2026 | **Foco agora: a Casa Live no modelo LiveHouse.** A Vyre e a Central Marketplaces ficam para depois | Kaio |
 | 17/11/2026 | A Vyre não é sócia nem marca da Casa. Ela será usada depois para captar creators e produzir vídeos | Kaio |
-| 17/11/2026 | ~~**Mês 1 de cada cliente: só comissão.** A partir do mês 2: fixo + comissão, na linha da LiveHouse~~ (substituída em 18/11) | Kaio |
+| 17/11/2026 | **Mês 1 de cada cliente: só comissão.** A partir do mês 2: fixo + comissão, na linha da LiveHouse (confirmada em 18/11: o fixo é a gestão de R$ 3.000 do contrato de 6 meses) | Kaio |
 | 17/11/2026 | ~~Comissão do mês de teste: **10%**~~ (substituída em 18/11: 8% a 12% por cliente) | Kaio |
 | 17/11/2026 | CNPJ em abertura, só em nome do Felipe. Sociedade: Kaio e Felipe. A Duda entra pelo lado do Kaio, não como sócia separada | Kaio |
 | 17/11/2026 | Sem aporte inicial: os custos são registrados e o dinheiro entra conforme a necessidade | Kaio |
@@ -23,7 +23,7 @@
 | 17/11/2026 | O ID da live (`CL-AAAA-NNN`) **nasce na Agenda**, é sequencial e nunca é reaproveitado (nem de live cancelada). O mesmo ID vai para o Registro de Lives e para a aba Comissões do Financeiro | Sessão Operação |
 | 17/11/2026 | Live remarcada: a linha antiga fica com status Remarcada e a nova data ganha uma linha nova, com outro ID | Sessão Operação |
 | 17/11/2026 | Amostras dos clientes são controladas na planilha Agenda, aba Amostras (ID `AMO-001`) | Sessão Operação |
-| 18/11/2026 | **Preço:** gestão de **R$ 3.000/mês** + comissão de **8% a 12%** (taxa negociada e gravada por cliente). Vale já no teste | Sócios (sessão Comercial) |
+| 18/11/2026 | **Preço:** teste de 30 dias **só por comissão** (8% a 12%, taxa negociada e gravada por cliente). No contrato de 6 meses: gestão de **R$ 3.000/mês** + comissão de 8% a 12% | Sócios (sessão Comercial) |
 | 18/11/2026 | **Contrato:** teste de **30 dias**; aprovado, contrato de **6 meses**. Assinatura digital | Sócios (sessão Comercial) |
 | 18/11/2026 | **Incluso:** mínimo de **60 h de live por mês em pelo menos 22 dias**, vendedor exclusivo, studio da marca, vários perfis de vendedores, plataforma de UGC, lojas de vendedores afiliados | Sócios (sessão Comercial) |
 | 18/11/2026 | A gestão cobre só custos operacionais (aluguel, água, luz, internet, estrutura e vendedor exclusivo) | Sócios (sessão Comercial) |

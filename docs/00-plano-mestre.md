@@ -6,7 +6,7 @@
 ---
 
 ## 1. A ideia
-**Uma casa de lives que vende pelas marcas.** A marca manda o produto e nós fazemos as lives de venda e os vídeos curtos no TikTok Shop. Cuidamos de estúdio, apresentador (host), moderação, roteiro e relatório. Cobramos uma gestão mensal de R$ 3.000 desde o mês de teste, mais uma comissão de 8% a 12% sobre o que vendemos.
+**Uma casa de lives que vende pelas marcas.** A marca manda o produto e nós fazemos as lives de venda e os vídeos curtos no TikTok Shop. Cuidamos de estúdio, apresentador (host), moderação, roteiro e relatório. No teste de 30 dias cobramos só comissão (8% a 12%). Aprovado o teste, o contrato de 6 meses tem gestão mensal de R$ 3.000 mais a comissão.
 
 **Por que agora:**
 - O TikTok Shop está crescendo rápido no Brasil e a maioria das marcas não sabe fazer live.
@@ -17,7 +17,7 @@
 1. **Operação com processo e dados.** Cada live vira registro, relatório e aprendizado. O cliente vê o resultado no dia seguinte.
 2. **Automação desde o início.** Menos trabalho manual, escala com equipe enxuta.
 3. **Duas formas de ganhar comissão:** a live na conta da marca e os vídeos e lives na nossa conta como afiliado.
-4. **Gestão de R$ 3.000** (a LiveHouse cobra R$ 4 mil por 80 h), teste de 30 dias e vendedor exclusivo da marca.
+4. **Gestão de R$ 3.000** no contrato (a LiveHouse cobra R$ 4 mil por 80 h), com teste de 30 dias só por comissão e vendedor exclusivo da marca.
 
 **Visão de 12 meses [PROPOSTA]:**
 - Casa própria com 3 ou mais estúdios.
@@ -39,8 +39,8 @@
 ## 3. Modelo comercial [DECIDIDO]
 | Fase do cliente | Cobrança |
 |---|---|
-| **Teste (30 dias)** [DECIDIDO] | **Gestão de R$ 3.000 + comissão de 8% a 12%** (negociada e gravada por cliente) sobre as vendas das nossas lives, líquidas de cancelamentos e devoluções |
-| **Contrato de 6 meses (teste aprovado)** [DECIDIDO] | Mesmas condições do teste. Multa se o cliente cancelar: valor integral dos meses restantes. Sem multa se a Casa não entregar as horas |
+| **Teste (30 dias)** [DECIDIDO] | **Só comissão de 8% a 12%** (negociada e gravada por cliente) sobre as vendas das nossas lives, líquidas de cancelamentos e devoluções |
+| **Contrato de 6 meses (teste aprovado)** [DECIDIDO] | Gestão de R$ 3.000 + comissão de 8% a 12%. Multa se o cliente cancelar: valor integral dos meses restantes. Sem multa se a Casa não entregar as horas |
 
 **O que está incluso:** no mínimo 60 h de live por mês em pelo menos 22 dias, vendedor exclusivo da marca, studio da marca, vários perfis de vendedores para teste, plataforma de UGC e lojas de vendedores afiliados. As condições de cada cliente ficam no CRM (aba Leads) e no contrato dele. Detalhes de contrato, vendedores e canais em 11-estrutura-comercial.
 
