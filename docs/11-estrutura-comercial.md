@@ -10,7 +10,6 @@
 
 | Item | Regra |
 |---|---|
-
 | **Gestão mensal** | **R$ 3.000,00** por mês, já no mês de teste |
 | **Comissão** | **8% a 12%** sobre as vendas das nossas lives. A taxa é negociada e gravada **por cliente** no CRM |
 | **Para que serve a gestão** | Só para os custos operacionais: aluguel, água, luz, internet, estrutura e o **vendedor exclusivo** da marca em todas as lives |
@@ -29,7 +28,6 @@
 
 | Fase | Duração | Cobrança |
 |---|---|---|
-
 | **Teste** | **30 dias** (1 mês) | Gestão R$ 3.000 + comissão do cliente |
 | **Contrato** (se o teste for aprovado) | **6 meses** | Gestão R$ 3.000 + comissão do cliente |
 
@@ -53,7 +51,6 @@ Por que o teste tem gestão: volume baixo de vendas não é vantajoso nem para a
 
 | Papel | Quem | O que faz |
 |---|---|---|
-
 | Atração de leads | Sócios (conteúdo + Meta Ads) | Conteúdo, anúncios, landing page, cadastro, indicação |
 | Análise do cadastro | Felipe | Confere se faz sentido para nós (checklist de qualificação) e entra em contato |
 | **Fechamento** | **Felipe** | Proposta, negociação, contrato |
@@ -64,7 +61,6 @@ Por que o teste tem gestão: volume baixo de vendas não é vantajoso nem para a
 
 | Item | Regra |
 |---|---|
-
 | **Vínculo** | Freelancer |
 | **Pagamento por live** | **R$ 100,00 por live de no mínimo 3 h** |
 | **Comissão** | **3% sobre o GMV gerado na live** |
@@ -131,7 +127,6 @@ Feita só com os números decididos. Não inclui impostos nem taxa de boleto [A 
 
 | Comissão do cliente | Recebemos | Vendedor (3%) | Fica com a Casa |
 |---|---|---|---|
-
 | 8% | R$ 800 | R$ 300 | R$ 500 (5%) |
 | 10% | R$ 1.000 | R$ 300 | R$ 700 (7%) |
 | 12% | R$ 1.200 | R$ 300 | R$ 900 (9%) |
@@ -142,7 +137,6 @@ Feita só com os números decididos. Não inclui impostos nem taxa de boleto [A 
 
 | Área | O que muda |
 |---|---|
-
 | **Operação** | Relatório diário no grupo do cliente (seção 5). Controle de horas e dias por cliente (mínimo de 60 h e 22 dias). Escala de vendedores freelancers |
 | **Financeiro** | Gestão já no mês 1. Boleto no dia 05 do mês seguinte (pós-pago). Pagamento dos vendedores: R$ 100 por live + 3% do GMV |
 | **Automação** | Landing page + cadastro (A1 já existe). Relatório diário automático. Cálculo do pagamento dos vendedores |

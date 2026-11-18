@@ -2,7 +2,7 @@
 
 **Escopo:** leads, qualificação, propostas, acordos de teste, onboarding, conversão do teste em plano pago e relacionamento (etapas E0 a E3, E8 e E9).
 
-**Regras:** `docs/11-estrutura-comercial.md` (preço, contrato, vendedores, canais; Doc `1NlNJeTdou8Pd7EwWqpDC4YqxELercLcL4YvzFKxW5Xo`) e `docs/10-playbook-cliente.md` (passo a passo E0 a E9).
+**Regras:** `docs/11-estrutura-comercial.md` (preço, contrato, vendedores, canais; Doc `1tq_zOP7MthS7cTaJ0xAIrZxrZAX4iVswgR9MCoC-1JE`) e `docs/10-playbook-cliente.md` (passo a passo E0 a E9).
 
 **Dados:** planilha "Casa Live — CRM" (Drive, pasta 02), ID `1pyNO4KHIYvxK9u9UO8HJghY4WT6obF5gCSq-XM6RryU`. Cada cliente tem uma pasta em `08 Clientes/<Marca>/` com Acordo, Fichas, Relatórios e Mídia.
 
@@ -12,12 +12,12 @@ Padrão brasileiro (pt_BR, fuso de São Paulo). Nas fórmulas, o separador é `;
 | Aba | Para quê | Quem preenche |
 |---|---|---|
 | Como usar | Passo a passo e legenda | — |
-| Leads | Uma linha por marca: contato, origem, **Etapa** (lista E0 a E9, Encerrado, Futuro), próxima ação, prazo, responsável, início do teste e **condições comerciais do cliente** (comissão do teste, horas, fixo e comissão a partir do mês 2). Calcula sozinha a nota, a decisão e as datas dos dias 20, 25 e 30 do teste | Felipe |
+| Leads | Uma linha por marca: contato, origem, **Etapa** (lista E0 a E9, Encerrado, Futuro), próxima ação, prazo, responsável, início do teste e **condições do cliente**: comissão do teste, horas mínimas, gestão mensal, comissão do contrato de 6 meses, início e meses de contrato. Calcula sozinha a nota, a decisão, as datas dos dias 20, 25 e 30 do teste e o fim do contrato | Felipe |
 | Qualificação | Checklist de 100 pontos do E1 (limite de nota por critério). Calcula a nota e a decisão (≥ 70 segue; 50 a 69 só com vaga; < 50 recusar) | Felipe |
 | Onboarding | Caixas de seleção do E2/E3. Mostra os 3 OKs (Comercial, Conteúdo, Técnico) e "Pronto para a 1ª live" | Duda |
 | Painel | Quantidade por etapa, vagas de teste livres (limite 3), nota média, próximas ações vencidas | automático |
 | Listas | Opções dos menus: **Responsáveis** e **Taxas de comissão**. São só sugestões de menu: cadastre aqui na primeira linha vazia (taxa com %, ex.: 12%). Também dá para digitar uma taxa direto na linha do cliente | Felipe/Kaio |
-| Parâmetros | Notas de corte, limite de testes, dias do teste, lista de etapas e donos. **Não tem taxa de comissão:** cada cliente tem a sua, gravada na aba Leads. **Não há tabela de planos:** os valores do mês 2 são por cliente | Kaio/Felipe |
+| Parâmetros | Notas de corte, limite de testes, dias do teste, **tabela comercial de referência** (gestão R$ 3.000, comissão 8% a 12%, 60 h em 22 dias, contrato de 6 meses, boleto dia 05, vendedor R$ 100 por live + 3%), lista de etapas e donos. É só referência: nenhuma conta dos clientes depende dela | Kaio/Felipe |
 
 - **ID do lead:** `LEAD-001`, `LEAD-002`… Mesmo ID nas três abas.
 - Cabeçalho azul = preencher. Cabeçalho cinza "(auto)" = fórmula, não digitar.
