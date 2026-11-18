@@ -2,7 +2,7 @@
 
 **Escopo:** leads, qualificação, propostas, acordos de teste, onboarding, conversão do teste em plano pago e relacionamento (etapas E0 a E3, E8 e E9).
 
-**Regras:** `docs/10-playbook-cliente.md`.
+**Regras:** `docs/11-estrutura-comercial.md` (preço, contrato, vendedores, canais; Doc `1NlNJeTdou8Pd7EwWqpDC4YqxELercLcL4YvzFKxW5Xo`) e `docs/10-playbook-cliente.md` (passo a passo E0 a E9).
 
 **Dados:** planilha "Casa Live — CRM" (Drive, pasta 02), ID `1pyNO4KHIYvxK9u9UO8HJghY4WT6obF5gCSq-XM6RryU`. Cada cliente tem uma pasta em `08 Clientes/<Marca>/` com Acordo, Fichas, Relatórios e Mídia.
 
@@ -31,7 +31,8 @@ Padrão brasileiro (pt_BR, fuso de São Paulo). Nas fórmulas, o separador é `;
 - "Fechar teste com <marca>" → gera a proposta, o acordo de teste, a pasta do cliente e o formulário de onboarding.
 
 ## Pendências da área
-- [ ] Definir a política de preços do mês 2 (ou seguir só caso a caso), quando houver números dos primeiros testes.
+- [ ] Responder os itens [A DEFINIR] de `docs/11-estrutura-comercial.md` (multa, vendedor, entrega de horas).
+- [ ] Advogado: revisar multa e contrato do vendedor freelancer.
 - [ ] Modelo do acordo de teste e da proposta (M2) em arquivo pronto para assinatura.
 - [ ] Formulário de onboarding do cliente (Google Forms) ligado à aba Onboarding.
-- [ ] Lista de prospecção: marcas que vendem no TikTok Shop e não fazem live.
+- [ ] Landing page + campanha de Meta Ads (sem prospecção fria).

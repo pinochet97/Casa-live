@@ -6,7 +6,7 @@
 ---
 
 ## 1. A ideia
-**Uma casa de lives que vende pelas marcas.** A marca manda o produto e nós fazemos as lives de venda e os vídeos curtos no TikTok Shop. Cuidamos de estúdio, apresentador (host), moderação, roteiro e relatório. Ganhamos comissão sobre o que vendemos e, a partir do 2º mês, também um fixo mensal.
+**Uma casa de lives que vende pelas marcas.** A marca manda o produto e nós fazemos as lives de venda e os vídeos curtos no TikTok Shop. Cuidamos de estúdio, apresentador (host), moderação, roteiro e relatório. Cobramos uma gestão mensal de R$ 3.000 desde o mês de teste, mais uma comissão de 8% a 12% sobre o que vendemos.
 
 **Por que agora:**
 - O TikTok Shop está crescendo rápido no Brasil e a maioria das marcas não sabe fazer live.
@@ -17,7 +17,7 @@
 1. **Operação com processo e dados.** Cada live vira registro, relatório e aprendizado. O cliente vê o resultado no dia seguinte.
 2. **Automação desde o início.** Menos trabalho manual, escala com equipe enxuta.
 3. **Duas formas de ganhar comissão:** a live na conta da marca e os vídeos e lives na nossa conta como afiliado.
-4. **Preço de entrada abaixo da LiveHouse**, com teste só por comissão.
+4. **Gestão de R$ 3.000** (a LiveHouse cobra R$ 4 mil por 80 h), teste de 30 dias e vendedor exclusivo da marca.
 
 **Visão de 12 meses [PROPOSTA]:**
 - Casa própria com 3 ou mais estúdios.
@@ -36,13 +36,13 @@
 
 > ⚠️ **Atenção jurídica:** o CNPJ está só em nome do Felipe. Até o Kaio entrar no contrato social, assinar um **acordo de sócios** que defina % de participação, divisão de lucro, quem decide o quê, aportes, saída de sócio e propriedade de marca, contas e clientes. Detalhes em `40-financeiro-juridico`.
 
-## 3. Modelo comercial [DECIDIDO + A DEFINIR]
+## 3. Modelo comercial [DECIDIDO]
 | Fase do cliente | Cobrança |
 |---|---|
-| **Mês 1, teste** [DECIDIDO] | **Só comissão** sobre as vendas das nossas lives, líquidas de cancelamentos e devoluções. Referência: **10%**, mas a taxa é **combinada com cada cliente** |
-| **Mês 2 em diante** [DECIDIDO] | Fixo + comissão. **Valores ainda não definidos** e **negociados por cliente** (fixo, horas por mês e taxa de comissão) |
+| **Teste (30 dias)** [DECIDIDO] | **Gestão de R$ 3.000 + comissão de 8% a 12%** (negociada e gravada por cliente) sobre as vendas das nossas lives, líquidas de cancelamentos e devoluções |
+| **Contrato de 6 meses (teste aprovado)** [DECIDIDO] | Mesmas condições do teste. Multa se o cliente cancelar: valor integral dos meses restantes. Sem multa se a Casa não entregar as horas |
 
-**Planos do mês 2 [A DEFINIR]:** ainda não há tabela de preços. Cada cliente terá o seu fixo, as suas horas e a sua comissão, combinados no fim do teste com base nos números dele. A única referência de mercado é a LiveHouse (R$ 4 mil + 10% por 80 h), que serve só como comparação. As condições de cada cliente ficam registradas no CRM (aba Leads) e no acordo ou contrato dele.
+**O que está incluso:** no mínimo 60 h de live por mês em pelo menos 22 dias, vendedor exclusivo da marca, studio da marca, vários perfis de vendedores para teste, plataforma de UGC e lojas de vendedores afiliados. As condições de cada cliente ficam no CRM (aba Leads) e no contrato dele. Detalhes de contrato, vendedores e canais em 11-estrutura-comercial.
 
 Adicionais (vídeos curtos extras, cortes, cenário personalizado): sob orçamento.
 
@@ -92,10 +92,10 @@ O repositório GitHub `casa-live` guarda a mesma documentação em Markdown, par
 - [ ] 3 clientes de teste com lives semanais. **Black Friday (27/11) e Natal** como primeiras campanhas
 - [ ] Relatório por live em D+1 e semanal toda segunda
 - [ ] Primeiras automações: formulário → CRM, agenda → lembretes, registro de live → relatório
-- [ ] Fechamento do mês 1 de cada cliente e proposta do mês 2
+- [ ] Fechamento do teste de cada cliente e contrato de 6 meses
 
 ### Fase 2 — Recorrência (jan a fev/2027)
-- [ ] Converter 3 clientes de teste para o plano com fixo. Meta: 5 pagantes
+- [ ] Converter 3 clientes de teste para o contrato de 6 meses. Meta: 5 pagantes
 - [ ] O Felipe em tempo integral (desde o fim de dezembro)
 - [ ] Cobrança automatizada (Pix/boleto + nota fiscal)
 - [ ] Integração com a API do TikTok Shop para puxar vendas automaticamente [A VERIFICAR]
@@ -115,11 +115,11 @@ Só avança se atingir os critérios abaixo.
   - cortes das lives;
   - antes e depois dos clientes (com autorização);
   - série "construindo uma casa de lives do zero".
-- **Prospecção ativa** (Felipe):
-  - lista de marcas que já vendem no TikTok Shop mas não fazem live;
-  - indicações (Gustavo, contatos da fábrica);
-  - mensagem direta com um case.
-- **Prova social:** cada cliente de teste vira um case com números. É o principal ativo para vender o plano com fixo.
+- **Captação de leads quentes** (sem prospecção fria):
+  - conteúdo e Meta Ads levando para a landing page com cadastro;
+  - indicações (Gustavo, contatos da fábrica), pelo mesmo cadastro;
+  - o Felipe analisa o cadastro e só entra em contato se fizer sentido.
+- **Prova social:** cada cliente de teste vira um case com números. É o principal ativo para vender o contrato de 6 meses.
 
 ## 8. Governança
 - **Reunião semanal de 45 min (segunda):**
@@ -137,19 +137,19 @@ Só avança se atingir os critérios abaixo.
 | Indicador | Meta |
 |---|---|
 | Clientes em teste | 3 |
-| Lives realizadas | 24 (2 por semana por cliente) |
+| Lives realizadas | 60 h e 22 dias de live por cliente por mês (mínimo do contrato) |
 | Relatórios entregues em D+1 | 100% |
 | GMV médio por live | Medir. Definir a meta depois das 5 primeiras |
-| Clientes que aceitam o plano com fixo | 2 de 3 |
+| Clientes que aceitam o contrato de 6 meses | 2 de 3 |
 | Seguidores na conta TikTok da agência | Medir |
 
 ## 10. Riscos principais
 | Risco | Mitigação |
 |---|---|
-| A live vende pouco no teste só por comissão (trabalho sem retorno) | Qualificar bem o cliente, rota de afiliado em paralelo, limite de 3 clientes |
+| A live vende pouco no teste (pouca comissão para a Casa e para o vendedor) | Qualificar bem o cliente, rota de afiliado em paralelo, limite de 3 clientes |
 | O cliente não paga a comissão | Acordo escrito, dados do painel conferidos juntos, pagamento em até 5 dias |
 | Conta do cliente penalizada por erro na live | Ficha do produto aprovada, frases proibidas, checklist T-20 |
-| Capacidade dos sócios (o Felipe empregado até dezembro) | 40 h por cliente no máximo, grade fixa, primo e Duda na escala |
+| Capacidade dos sócios (o Felipe empregado até dezembro) | 60 h por cliente (mínimo do contrato), comunidade de vendedores freelancers, grade fixa |
 | Sociedade informal | Acordo de sócios antes da primeira receita |
 | Dependência do TikTok | Depois, levar os clientes também para a Shopee Live e o Mercado Livre |
 
