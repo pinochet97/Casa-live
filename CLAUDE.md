@@ -9,6 +9,9 @@ Este repositório é a "base de conhecimento" da operação. Toda sessão do Cla
 - **Sergio**: ligado à Vyre. Parceria "By Vyre" a conversar depois.
 - **Gustavo (Paparazzo)**: investidor/empresário que quer colocar de 1 a 3 empresas na Casa Live.
 
+## Marca (18/11/2026)
+Nome **Zhibo** ("transmissão ao vivo" em mandarim, sem caracteres chineses no logo). Três assinaturas: **Zhibo** (institucional), **Zhibo Agência** e **Zhibo Shop** (a casa de lives). Kit e gerador em `areas/marketing/marca-zhibo/`.
+
 ## O negócio (resumo)
 Operação de vendas em TikTok Shop, Shopee e Mercado Livre. Tem três frentes, aprovadas em 16/11/2026:
 1. **Agência / Casa Live**: lives de venda e vídeo curto/UGC para marcas de terceiros. Fixo mais comissão.
@@ -29,7 +32,7 @@ Também estão na mesa:
 ## Foco atual (17/11/2026)
 Casa Live no modelo LiveHouse: mês 1 só comissão, mês 2 em diante fixo + comissão. A Vyre (só para captar creators e produzir vídeos) e a Central Marketplaces ficam para depois.
 
-## Estrutura no Google Drive (pasta "Casa Live" `107wGjd6t81x43IFFQVbmSMx7Vz5zhYfJ`)
+## Estrutura no Google Drive (pasta "Zhibo", antes "Casa Live", `107wGjd6t81x43IFFQVbmSMx7Vz5zhYfJ`)
 | Item | ID |
 |---|---|
 | 00 Comece aqui — Plano Mestre (Doc) | `1ZlpAlmgtWaRJYlui7yUssfAueFj59iwAkCIZ-knXc2E` |
@@ -45,6 +48,7 @@ Casa Live no modelo LiveHouse: mês 1 só comissão, mês 2 em diante fixo + com
 | 07 Marketing (pasta) | `1OUrAZWUfpSKntoRpmvKUylsDTzpiqdJz` |
 | 08 Clientes (pasta, uma subpasta por cliente) | `1Ojz82TFoazfQ9s1ZfYkab1K0QtekJxB4` |
 | 99 Fontes (pasta: transcrições, briefing, PDFs) | `1lim_OjmmIgUvGTozCsJBHRqIC6TSPvMj` |
+| **Zhibo_Marca_e_Comercial** (marca, mídia kit, aplicações; índice no doc Leia-me_e_Checklist `1Nrl4x1zybH5ybtWnA8P-TWaQvGA4mU7KE9ZhFk7JRCA`) | `1Rkq2zin0d_5X1Jasgn8jKw8QtpJwUhzC` |
 
 A fonte da verdade dos textos é `docs/` neste repositório. Ao alterar um documento, atualizar também o Doc no Drive.
 

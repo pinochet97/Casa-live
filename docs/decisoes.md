@@ -23,3 +23,7 @@
 | 17/11/2026 | Live remarcada: a linha antiga fica com status Remarcada e a nova data ganha uma linha nova, com outro ID | Sessão Operação |
 | 17/11/2026 | Amostras dos clientes são controladas na planilha Agenda, aba Amostras (ID `AMO-001`) | Sessão Operação |
 | 18/11/2026 | Marca em teste: **Zhibo** ("transmissão ao vivo" em mandarim), sem os caracteres chineses no logo. Símbolo escolhido: **B, play com ondas de sinal**. Cores: vermelho #E5262A + amarelo #FFC42E. O nome ainda depende da busca no INPI. Kit em `areas/marketing/marca-zhibo/` | Felipe |
+| 18/11/2026 | A marca Zhibo tem três assinaturas: **Zhibo** (institucional), **Zhibo Agência** (planejamento e resultados) e **Zhibo Shop** (a casa de lives). "Live House" foi descartado por ser quase o nome do concorrente LiveHouse | Felipe |
+| 18/11/2026 | Cores de apoio por frente: Institucional = Tinta #141010, Agência = Ouro #FFC42E, Shop = Vermelho #E5262A. Fontes: Unbounded (títulos) e Inter (textos) | Felipe |
+| 18/11/2026 | A pasta "Casa Live" do Drive foi renomeada para **Zhibo**. Dentro dela foi criada a pasta **Zhibo_Marca_e_Comercial** (identidade, mídia kit, aplicações, referências), com o índice Leia-me_e_Checklist | Felipe |
+| 18/11/2026 | Editáveis em Google Slides, Docs e Sheets; logos e artes de impressão em SVG + PDF vetorial. Valores de cada cliente só na proposta comercial, nunca no mídia kit | Felipe |

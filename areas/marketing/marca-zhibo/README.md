@@ -1,5 +1,7 @@
 # Marca Zhibo: kit do logo
 
+> **Atualização 18/11/2026:** a identidade completa (três assinaturas Zhibo, Zhibo Agência e Zhibo Shop, manual, mídia kit e aplicações) está no Drive, em Zhibo / Zhibo_Marca_e_Comercial. O índice fica no doc **Leia-me_e_Checklist**. O código que gera tudo está em `gerador/`: logos.js → gfx.py → manual.py → mediakit.py → apps1..4.py → package.py. Precisa das fontes Unbounded e Inter em `fonts/`, baixadas do Google Fonts.
+
 **Status (18/11/2026):** o símbolo B (play com ondas de sinal) foi escolhido. O nome "Zhibo" ainda depende da busca no INPI (classe 35).
 
 - *Zhibo* (直播, zhí bō) quer dizer "transmissão ao vivo" em mandarim. Os caracteres chineses **não** entram na marca.
