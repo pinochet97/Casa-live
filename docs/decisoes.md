@@ -22,3 +22,4 @@
 | 17/11/2026 | O ID da live (`CL-AAAA-NNN`) **nasce na Agenda**, é sequencial e nunca é reaproveitado (nem de live cancelada). O mesmo ID vai para o Registro de Lives e para a aba Comissões do Financeiro | Sessão Operação |
 | 17/11/2026 | Live remarcada: a linha antiga fica com status Remarcada e a nova data ganha uma linha nova, com outro ID | Sessão Operação |
 | 17/11/2026 | Amostras dos clientes são controladas na planilha Agenda, aba Amostras (ID `AMO-001`) | Sessão Operação |
+| 18/11/2026 | Marca em teste: **Zhibo** ("transmissão ao vivo" em mandarim), sem os caracteres chineses no logo. Símbolo escolhido: **B, play com ondas de sinal**. Cores: vermelho #E5262A + amarelo #FFC42E. O nome ainda depende da busca no INPI. Kit em `areas/marketing/marca-zhibo/` | Felipe |
