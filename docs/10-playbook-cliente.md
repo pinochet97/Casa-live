@@ -131,7 +131,7 @@ Diário (todo dia de live, no grupo do cliente): vídeo da live acontecendo, pri
 2. Enviar o demonstrativo para conferência. O cliente tem 2 dias para contestar.
 3. Emitir a cobrança (Pix/boleto) e a nota fiscal de serviço. Vencimento no dia 5.
 4. Lembretes automáticos: D-1, no vencimento e D+3.
-5. Boleto não pago no vencimento: as lives são interrompidas imediatamente até regularizar (regra do contrato). Com o pagamento recebido, pagar os vendedores de live no dia 05: R$ 40 por hora (mínimo de 3 h) e o bônus por meta de cada live (contrato; no teste, as lives são feitas pelos sócios).
+5. Boleto não pago no vencimento: as lives são interrompidas imediatamente até regularizar (regra do contrato). Com o pagamento recebido, pagar os vendedores de live no dia 05: R$ 40 por hora (mínimo de 3 h) e 2% do GMV de cada live (contrato; no teste, as lives são feitas pelos sócios).
 
 ## E8 — Conversão (fim do teste)
 1. **Dia 20 do teste:** fazer a análise interna. Vale continuar? O GMV justifica? O cliente é bom de trabalhar?

@@ -52,3 +52,4 @@
 | 19/11/2026 | **Meta por live do vendedor:** vendeu R$ 5.000, ganha +50% do fixo (R$ 180 numa live de 3 h). Acima de R$ 5.000: R$ 180 + **2% sobre o total vendido** na live. Fim da comissão de 3% | Sócios (sessão Comercial) |
 | 19/11/2026 | Vendedor continua podendo usar nossos produtos na loja pessoal de afiliado (comissão da loja é dele). Fixo e bônus pagos no dia 05 do mês seguinte | Sócios (sessão Comercial) |
 | 19/11/2026 | **Meta de GMV das nossas lives: R$ 120 mil por mês por cliente** (cerca de R$ 5.500 por live). Substitui a meta de R$ 100 mil | Sócios (sessão Comercial) |
+| 19/11/2026 | **Vendedor de live (versão final, substitui a meta por live):** R$ **40 por hora** (mínimo de 3 h) + **2% sobre o total vendido** na live. Sem meta por live e sem bônus de 50%. Hora extra a R$ 40/h só com aprovação da operação. Pago no dia 05 do mês seguinte | Sócios (sessão Comercial) |

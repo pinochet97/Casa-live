@@ -63,16 +63,16 @@ Por que 30 dias de teste: pouco tempo gera volume baixo de vendas, o que não é
 |---|---|
 | **Vínculo** | Freelancer |
 | **Pagamento por hora** | **R$ 40 por hora, mínimo de 3 h (R$ 120 por live). Hora extra: R$ 40/h, só com aprovação da operação (Duda), quando a live está vendendo** |
-| **Comissão** | **Meta da live: vendeu R$ 5.000, ganha +50% do fixo (R$ 180 numa live de 3 h). Acima de R$ 5.000: R$ 180 + 2% sobre o total vendido na live. Não há mais comissão de 3%** |
-| **Quando recebe** | Fixo e bônus no dia 05 do mês seguinte, junto com a nossa comissão. No teste não há vendedor pago (ver 3.5) |
-| **Quem paga o bônus** | A Casa (sai da comissão que recebemos do cliente) |
+| **Comissão** | **2% sobre o total vendido na live (substitui os 3%)** |
+| **Quando recebe** | Fixo e comissão no dia 05 do mês seguinte, junto com a nossa comissão. No teste não há vendedor pago (ver 3.5) |
+| **Quem paga os 2%** | A Casa (sai da comissão que recebemos do cliente) |
 | **Comunidade de vendedores** | Os vendedores formam uma comunidade e podem ser trocados e testados entre as empresas |
 
 **[A DEFINIR] sobre o vendedor:**
 
 - Live com menos de 3 h: paga proporcional, não paga ou não acontece?
-- A meta e os 2% são sobre o GMV bruto ou líquido da live (descontando cancelamentos e devoluções, como na cobrança do cliente)? Sugestão: líquido, igual ao cliente.
-- [DECIDIDO] Fixo e bônus são pagos ao vendedor no dia 05 do mês seguinte, junto com a nossa comissão.
+- Os 2% são sobre o GMV bruto ou líquido da live (descontando cancelamentos e devoluções, como na cobrança do cliente)? Sugestão: líquido, igual ao cliente.
+- [DECIDIDO] Fixo e comissão são pagos ao vendedor no dia 05 do mês seguinte, junto com a nossa comissão.
 - Se o cliente não pagar, o vendedor recebe mesmo assim?
 - [A VERIFICAR com contador e advogado] Formato do freelancer (MEI com nota, RPA) e contrato de prestação de serviço, para não virar vínculo trabalhista.
 
@@ -125,17 +125,17 @@ Feita só com os números decididos. Não inclui impostos nem taxa de boleto [A 
 **Gestão (R$ 3.000/mês, só no contrato):**
 
 - Para cumprir 60 h em 22 dias com lives de 3 h: **22 lives por mês** (66 h).
-- Vendedor (fixo): 22 lives × 3 h × R$ 40 = **R$ 2.640**.
+- Vendedor (fixo): 22 lives × 3 h × R$ 40 = **R$ 2.640** (na meta de R$ 120 mil, o vendedor ganha R$ 2.640 + 2% de R$ 120.000 = cerca de R$ 5.040 por mês).
 - **Sobram cerca de R$ 360 por cliente** para aluguel, água, luz, internet e estrutura.
 - Atenção: se o vendedor fizer mais lives (ex.: 2 por dia), a gestão não cobre. No teste não há gestão nem custo de vendedor: as lives do teste são feitas pelos próprios sócios (ver 3.5).
 
-**Comissão (exemplo na meta: R$ 120.000 de GMV no mês, 22 lives de cerca de R$ 5.500; bônus do vendedor de cerca de R$ 170 por live além do fixo):**
+**Comissão (exemplo na meta: R$ 120.000 de GMV no mês, 22 lives de cerca de R$ 5.500; comissão do vendedor de 2% = R$ 2.400):**
 
-| Comissão do cliente | Recebemos | Bônus do vendedor | Fica com a Casa |
+| Comissão do cliente | Recebemos | Comissão do vendedor (2%) | Fica com a Casa |
 |---|---|---|---|
-| 8% | R$ 9.600 | R$ 3.740 | R$ 5.860 |
-| 10% | R$ 12.000 | R$ 3.740 | R$ 8.260 |
-| 12% | R$ 14.400 | R$ 3.740 | R$ 10.660 |
+| 8% | R$ 9.600 | R$ 2.400 | R$ 7.200 |
+| 10% | R$ 12.000 | R$ 2.400 | R$ 9.600 |
+| 12% | R$ 14.400 | R$ 2.400 | R$ 12.000 |
 
 **Capacidade:** cada cliente ocupa cerca de 22 lives por mês. Com 3 clientes, são cerca de 66 lives por mês, perto de 3 por dia útil. Isso pede estúdios e vendedores em paralelo. No começo, as lives dos testes ficam com os sócios: com 3 clientes em teste ao mesmo tempo, são cerca de 66 lives por mês para os sócios fazerem. Projeção dos sócios com 20 clientes (hipótese): sobra da gestão de cerca de R$ 360 × 20 = R$ 7.200 por mês, para aluguel maior e estrutura. Com a meta de R$ 120 mil de GMV por cliente e comissão média de 7%: R$ 8.400 por cliente, ou R$ 168.000 por mês com 20 clientes, sem contar os vídeos curtos.
 
@@ -144,7 +144,7 @@ Feita só com os números decididos. Não inclui impostos nem taxa de boleto [A 
 | Área | O que muda |
 |---|---|
 | **Operação** | Relatório diário no grupo do cliente (seção 5). Controle de horas e dias por cliente (mínimo de 60 h e 22 dias). Escala de vendedores freelancers (contrato) e dos sócios (teste) |
-| **Financeiro** | Teste só por comissão. No contrato, gestão antecipada no início do mês; comissão no boleto do dia 05 do mês seguinte. Pagamento dos vendedores: R$ 40/h (mínimo 3 h) + bônus por meta da live, no dia 05 |
+| **Financeiro** | Teste só por comissão. No contrato, gestão antecipada no início do mês; comissão no boleto do dia 05 do mês seguinte. Pagamento dos vendedores: R$ 40/h (mínimo 3 h) + 2% do GMV da live, no dia 05 |
 | **Automação** | Landing page + cadastro (A1 já existe). Relatório diário automático. Cálculo do pagamento dos vendedores |
 | **Marketing** | Conteúdo e Meta Ads como canal principal |
 
