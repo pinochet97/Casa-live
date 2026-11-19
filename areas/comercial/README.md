@@ -30,6 +30,9 @@ Padrão brasileiro (pt_BR, fuso de São Paulo). Nas fórmulas, o separador é `;
 - "Qualificar <marca>" → roda o checklist de 100 pontos.
 - "Fechar teste com <marca>" → gera a proposta, o acordo de teste, a pasta do cliente e o formulário de onboarding.
 
+## Documentos para aprovação
+- `areas/comercial/estrutura-comercial-aprovacao-2026-11-19.pdf` (cópia no Drive, pasta 02, ID `1-uipKJViPI9YY04dC-bcc-c-p9aJajM8`): resumo da estrutura comercial para Kaio e Felipe assinarem.
+
 ## Pendências da área
 - [ ] Responder os itens [A DEFINIR] de `docs/11-estrutura-comercial.md` (multa, vendedor, entrega de horas).
 - [ ] Advogado: revisar multa e contrato do vendedor freelancer.
