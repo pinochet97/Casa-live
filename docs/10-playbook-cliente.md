@@ -36,7 +36,7 @@
 | Preço de impulso e margem para oferta relâmpago | 15 | Ticket até cerca de R$ 150 e desconto possível na live |
 | Estoque e capacidade de entrega | 15 | Aguenta 100 ou mais pedidos numa live? Envia em até 2 dias? |
 | Responsividade (alguém disponível na live) | 10 | Decisor acessível |
-| Potencial de virar contrato (meta: R$ 100 mil de GMV por mês nas nossas lives) | 15 | Faturamento atual, ambição, budget |
+| Potencial de virar contrato (meta: R$ 120 mil de GMV por mês nas nossas lives) | 15 | Faturamento atual, ambição, budget |
 
 - **≥ 70:** segue para E2.
 - **50–69:** entra só se tivermos vaga.
@@ -131,7 +131,7 @@ Diário (todo dia de live, no grupo do cliente): vídeo da live acontecendo, pri
 2. Enviar o demonstrativo para conferência. O cliente tem 2 dias para contestar.
 3. Emitir a cobrança (Pix/boleto) e a nota fiscal de serviço. Vencimento no dia 5.
 4. Lembretes automáticos: D-1, no vencimento e D+3.
-5. Boleto não pago no vencimento: as lives são interrompidas imediatamente até regularizar (regra do contrato). Com o pagamento recebido, pagar os vendedores de live: R$ 100 por live de 3 h ou mais e 3% do GMV da live (contrato de 6 meses; no teste, as lives são feitas pelos sócios).
+5. Boleto não pago no vencimento: as lives são interrompidas imediatamente até regularizar (regra do contrato). Com o pagamento recebido, pagar os vendedores de live no dia 05: R$ 40 por hora (mínimo de 3 h) e o bônus por meta de cada live (contrato; no teste, as lives são feitas pelos sócios).
 
 ## E8 — Conversão (fim do teste)
 1. **Dia 20 do teste:** fazer a análise interna. Vale continuar? O GMV justifica? O cliente é bom de trabalhar?

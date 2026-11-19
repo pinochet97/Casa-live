@@ -48,3 +48,7 @@
 | 18/11/2026 | **Multa** se o cliente cancelar: **50%** dos meses restantes (substitui a faixa de 30% a 50%) | Sócios (sessão Comercial) |
 | 18/11/2026 | Se a Casa não entregar as horas do contrato (60 h em 22 dias no mês), o cliente pode cancelar **sem multa** | Sócios (sessão Comercial) |
 | 18/11/2026 | A comissão de 3% do vendedor é paga no **dia 05 do mês seguinte**, junto com a nossa comissão | Sócios (sessão Comercial) |
+| 19/11/2026 | **Vendedor de live (substitui R$ 100 por live + 3%):** R$ **40 por hora**, mínimo de 3 h (R$ 120 por live). Hora extra a R$ 40/h, só com aprovação da operação, quando a live está vendendo | Sócios (sessão Comercial) |
+| 19/11/2026 | **Meta por live do vendedor:** vendeu R$ 5.000, ganha +50% do fixo (R$ 180 numa live de 3 h). Acima de R$ 5.000: R$ 180 + **2% sobre o total vendido** na live. Fim da comissão de 3% | Sócios (sessão Comercial) |
+| 19/11/2026 | Vendedor continua podendo usar nossos produtos na loja pessoal de afiliado (comissão da loja é dele). Fixo e bônus pagos no dia 05 do mês seguinte | Sócios (sessão Comercial) |
+| 19/11/2026 | **Meta de GMV das nossas lives: R$ 120 mil por mês por cliente** (cerca de R$ 5.500 por live). Substitui a meta de R$ 100 mil | Sócios (sessão Comercial) |

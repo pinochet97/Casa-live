@@ -47,7 +47,7 @@ O CNPJ está só com o Felipe, então o acordo protege os dois. Ele precisa defi
 - **Teste (30 dias) e contrato:** teste só por comissão (revenda 8%, fabricante 10% a 12%, taxa por cliente, ver CRM) sobre o GMV líquido das nossas lives; no contrato (3 meses, depois renovações de 6), gestão de R$ 3.000 + comissão.
 - **Cobrança:**
   - gestão do contrato paga antecipada, no início de cada mês; comissão no boleto do dia 05, referente ao mês anterior;
-  - boleto não pago: lives interrompidas imediatamente. Vendedores de live: R$ 100 por live (mínimo de 3 h), pagos com a gestão do cliente (no teste, as lives são feitas pelos sócios; a partir de 10 empresas, por 2 colaboradoras fixas), + 3% do GMV da live, pagos pela Casa no dia 05 do mês seguinte, junto com a nossa comissão (ver 11-estrutura-comercial).
+  - boleto não pago: lives interrompidas imediatamente. Vendedores de live: R$ 40 por hora (mínimo de 3 h) + bônus por meta da live (vendeu R$ 5.000: +50% do fixo; acima de R$ 5.000: + 2% sobre o total vendido), pagos pela Casa no dia 05 do mês seguinte, junto com a nossa comissão (no teste, as lives são feitas pelos sócios; a partir de 10 empresas, por 2 colaboradoras fixas; ver 11-estrutura-comercial).
 - **Demonstrativo de comissão:** lista de lives (ID, data, GMV, cancelamentos e devoluções, GMV líquido) × % = valor. Vai junto com o relatório mensal.
 - **Rota de afiliado:** a comissão é paga pelo TikTok Shop na nossa conta. Registrar como receita separada.
 - **Cobrança:** Pix/boleto com vencimento no dia 5, via plataforma com emissão de NFS-e integrada (ex.: Asaas). [A VERIFICAR: tarifas]
@@ -83,5 +83,5 @@ Convenções: texto azul = campo para digitar; texto preto = fórmula (não digi
    - **condições do contrato** já informadas;
    - encerramento livre ao fim do teste.
 2. **Contrato de prestação de serviço (após o teste: 3 meses, depois renovações de 6):** gestão de R$ 3.000 antecipada + comissão, 60 h em 22 dias por mês, multa do cliente = 50% dos meses restantes [A VERIFICAR com advogado], cancelamento sem multa se a Casa não entregar as horas, inadimplência (interrupção imediata), reajuste.
-3. **Termo de uso de imagem** para hosts e creators externos, e contrato de prestação de serviço do vendedor de live freelancer (R$ 100 por live + 3% do GMV).
+3. **Termo de uso de imagem** para hosts e creators externos, e contrato de prestação de serviço do vendedor de live freelancer (R$ 40/h + bônus por meta da live).
 - **Assinatura digital** (ZapSign, Autentique ou similar, com API).

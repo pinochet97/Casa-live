@@ -139,7 +139,7 @@ Só avança se atingir os critérios abaixo.
 | Clientes em teste | 3 |
 | Lives realizadas | 60 h e 22 dias de live por cliente por mês (mínimo do contrato) |
 | Relatórios entregues em D+1 | 100% |
-| GMV médio por live | Medir. Meta por cliente: R$ 100 mil de GMV por mês nas nossas lives |
+| GMV médio por live | Medir. Meta por cliente: R$ 120 mil de GMV por mês nas nossas lives |
 | Clientes que fecham o contrato após o teste | 2 de 3 |
 | Seguidores na conta TikTok da agência | Medir |
 

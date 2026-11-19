@@ -62,17 +62,17 @@ Por que 30 dias de teste: pouco tempo gera volume baixo de vendas, o que não é
 | Item | Regra |
 |---|---|
 | **Vínculo** | Freelancer |
-| **Pagamento por live** | **R$ 100,00 por live de no mínimo 3 h** |
-| **Comissão** | **3% sobre o GMV gerado na live** |
-| **Quando recebe os R$ 100** | Junto com o pagamento da gestão pelo cliente (contrato). No teste não há vendedor pago (ver 3.5) |
-| **Quem paga a comissão de 3%** | A Casa (sai da comissão que recebemos do cliente) |
+| **Pagamento por hora** | **R$ 40 por hora, mínimo de 3 h (R$ 120 por live). Hora extra: R$ 40/h, só com aprovação da operação (Duda), quando a live está vendendo** |
+| **Comissão** | **Meta da live: vendeu R$ 5.000, ganha +50% do fixo (R$ 180 numa live de 3 h). Acima de R$ 5.000: R$ 180 + 2% sobre o total vendido na live. Não há mais comissão de 3%** |
+| **Quando recebe** | Fixo e bônus no dia 05 do mês seguinte, junto com a nossa comissão. No teste não há vendedor pago (ver 3.5) |
+| **Quem paga o bônus** | A Casa (sai da comissão que recebemos do cliente) |
 | **Comunidade de vendedores** | Os vendedores formam uma comunidade e podem ser trocados e testados entre as empresas |
 
 **[A DEFINIR] sobre o vendedor:**
 
 - Live com menos de 3 h: paga proporcional, não paga ou não acontece?
-- A comissão de 3% é sobre o GMV bruto ou líquido (descontando cancelamentos e devoluções, como na cobrança do cliente)? Sugestão: líquido, igual ao cliente.
-- [DECIDIDO] A comissão de 3% é paga ao vendedor no dia 05 do mês seguinte, junto com a nossa comissão.
+- A meta e os 2% são sobre o GMV bruto ou líquido da live (descontando cancelamentos e devoluções, como na cobrança do cliente)? Sugestão: líquido, igual ao cliente.
+- [DECIDIDO] Fixo e bônus são pagos ao vendedor no dia 05 do mês seguinte, junto com a nossa comissão.
 - Se o cliente não pagar, o vendedor recebe mesmo assim?
 - [A VERIFICAR com contador e advogado] Formato do freelancer (MEI com nota, RPA) e contrato de prestação de serviço, para não virar vínculo trabalhista.
 
@@ -102,7 +102,7 @@ Conteúdo + Meta Ads + indicação → Landing page → Cadastro do cliente → 
 1. **Conteúdo** (perfis da Casa) e **Meta Ads** levam a marca para a **landing page**.
 2. Na landing page, a marca faz o **cadastro** (o formulário "Quero live" já cai no CRM pela automação A1).
 3. **Indicação** entra pelo mesmo cadastro.
-4. O Felipe analisa o cadastro com o checklist de qualificação (nota até 100). Só entra em contato se fizer sentido para nós. Critério principal: a marca precisa ter potencial para as nossas lives gerarem pelo menos R$ 100 mil de GMV por mês. Abaixo disso, não é interessante. Nos primeiros clientes, enquanto não houver cases, os sócios também usam indicação e contatos próprios.
+4. O Felipe analisa o cadastro com o checklist de qualificação (nota até 100). Só entra em contato se fizer sentido para nós. Critério principal: a marca precisa ter potencial para as nossas lives gerarem R$ 120 mil de GMV por mês (cerca de R$ 5.500 por live). Abaixo disso, não é interessante. Nos primeiros clientes, enquanto não houver cases, os sócios também usam indicação e contatos próprios.
 
 ## 5. Acompanhamento do cliente [DECIDIDO]
 **Todo dia de live, no grupo de WhatsApp do cliente:**
@@ -125,26 +125,26 @@ Feita só com os números decididos. Não inclui impostos nem taxa de boleto [A 
 **Gestão (R$ 3.000/mês, só no contrato):**
 
 - Para cumprir 60 h em 22 dias com lives de 3 h: **22 lives por mês** (66 h).
-- Vendedor: 22 × R$ 100 = **R$ 2.200**.
-- **Sobram cerca de R$ 800 por cliente** para aluguel, água, luz, internet e estrutura.
+- Vendedor (fixo): 22 lives × 3 h × R$ 40 = **R$ 2.640**.
+- **Sobram cerca de R$ 360 por cliente** para aluguel, água, luz, internet e estrutura.
 - Atenção: se o vendedor fizer mais lives (ex.: 2 por dia), a gestão não cobre. No teste não há gestão nem custo de vendedor: as lives do teste são feitas pelos próprios sócios (ver 3.5).
 
-**Comissão (exemplo com R$ 10.000 de GMV no mês):**
+**Comissão (exemplo na meta: R$ 120.000 de GMV no mês, 22 lives de cerca de R$ 5.500; bônus do vendedor de cerca de R$ 170 por live além do fixo):**
 
-| Comissão do cliente | Recebemos | Vendedor (3%) | Fica com a Casa |
+| Comissão do cliente | Recebemos | Bônus do vendedor | Fica com a Casa |
 |---|---|---|---|
-| 8% | R$ 800 | R$ 300 | R$ 500 (5%) |
-| 10% | R$ 1.000 | R$ 300 | R$ 700 (7%) |
-| 12% | R$ 1.200 | R$ 300 | R$ 900 (9%) |
+| 8% | R$ 9.600 | R$ 3.740 | R$ 5.860 |
+| 10% | R$ 12.000 | R$ 3.740 | R$ 8.260 |
+| 12% | R$ 14.400 | R$ 3.740 | R$ 10.660 |
 
-**Capacidade:** cada cliente ocupa cerca de 22 lives por mês. Com 3 clientes, são cerca de 66 lives por mês, perto de 3 por dia útil. Isso pede estúdios e vendedores em paralelo. No começo, as lives dos testes ficam com os sócios: com 3 clientes em teste ao mesmo tempo, são cerca de 66 lives por mês para os sócios fazerem. Projeção dos sócios com 20 clientes (hipótese): sobra da gestão de cerca de R$ 800 × 20 = R$ 16.000 por mês, para aluguel maior e estrutura. Com a meta de R$ 100 mil de GMV por cliente e comissão média de 7%: R$ 7.000 por cliente, ou R$ 140.000 por mês com 20 clientes, sem contar os vídeos curtos.
+**Capacidade:** cada cliente ocupa cerca de 22 lives por mês. Com 3 clientes, são cerca de 66 lives por mês, perto de 3 por dia útil. Isso pede estúdios e vendedores em paralelo. No começo, as lives dos testes ficam com os sócios: com 3 clientes em teste ao mesmo tempo, são cerca de 66 lives por mês para os sócios fazerem. Projeção dos sócios com 20 clientes (hipótese): sobra da gestão de cerca de R$ 360 × 20 = R$ 7.200 por mês, para aluguel maior e estrutura. Com a meta de R$ 120 mil de GMV por cliente e comissão média de 7%: R$ 8.400 por cliente, ou R$ 168.000 por mês com 20 clientes, sem contar os vídeos curtos.
 
 ## 8. Impacto nas outras áreas
 
 | Área | O que muda |
 |---|---|
 | **Operação** | Relatório diário no grupo do cliente (seção 5). Controle de horas e dias por cliente (mínimo de 60 h e 22 dias). Escala de vendedores freelancers (contrato) e dos sócios (teste) |
-| **Financeiro** | Teste só por comissão. No contrato, gestão antecipada no início do mês; comissão no boleto do dia 05 do mês seguinte. Pagamento dos vendedores: R$ 100 por live + 3% do GMV |
+| **Financeiro** | Teste só por comissão. No contrato, gestão antecipada no início do mês; comissão no boleto do dia 05 do mês seguinte. Pagamento dos vendedores: R$ 40/h (mínimo 3 h) + bônus por meta da live, no dia 05 |
 | **Automação** | Landing page + cadastro (A1 já existe). Relatório diário automático. Cálculo do pagamento dos vendedores |
 | **Marketing** | Conteúdo e Meta Ads como canal principal |
 
