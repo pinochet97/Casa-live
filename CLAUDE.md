@@ -27,7 +27,7 @@ Também estão na mesa:
 - PDF Central Marketplaces, Proposta: `1DNX8irTTJ--u67UvqVs5IvsBuaUEy4URoMuI4eB87Ns`
 
 ## Foco atual (17/11/2026)
-Casa Live no modelo LiveHouse: mês 1 só comissão, mês 2 em diante fixo + comissão. A Vyre (só para captar creators e produzir vídeos) e a Central Marketplaces ficam para depois.
+Casa Live no modelo LiveHouse: teste de 30 dias só por comissão (8% a 12% por cliente) e, aprovado, contrato de 3 meses (depois renovações de 6) com gestão de R$ 3.000/mês antecipada + comissão (revenda 8%, fabricante 10% a 12%) (ver `docs/11-estrutura-comercial.md`). A Vyre (só para captar creators e produzir vídeos) e a Central Marketplaces ficam para depois.
 
 ## Estrutura no Google Drive (pasta "Casa Live" `107wGjd6t81x43IFFQVbmSMx7Vz5zhYfJ`)
 | Item | ID |
@@ -35,6 +35,7 @@ Casa Live no modelo LiveHouse: mês 1 só comissão, mês 2 em diante fixo + com
 | 00 Comece aqui — Plano Mestre (Doc) | `1ZlpAlmgtWaRJYlui7yUssfAueFj59iwAkCIZ-knXc2E` |
 | 01 Estratégia (pasta) | `1SW3PvkUXi-67cYzm4eaXVrOG3i-tiYux` |
 | 02 Comercial (pasta), Playbook do Cliente `1mKGVPnGi1fstxFQGwMivk6wePtzP_wSVThQWCFSvAlY` | `1abRtZrMQo-r_K86aYkFzTdPqrexILjpf` |
+| Estrutura Comercial (Doc, na pasta 02) | `1tq_zOP7MthS7cTaJ0xAIrZxrZAX4iVswgR9MCoC-1JE` |
 | Casa Live — CRM (planilha, na pasta 02) | `1pyNO4KHIYvxK9u9UO8HJghY4WT6obF5gCSq-XM6RryU` |
 | 03 Operação (pasta), Manual da Live `13Wbmus5rerJ4fVa6FP2EyrmkuwtSKlIk901ArUKt_5w`, guia Planilhas da Operação `1U9rPaF7VP8Xg5LQNT5NjiNHf8CeRTkjeq5HBcvS2Bbw`, Guia da Duda `1Q5UVhFaKWJkgj-aUMVB2FyTiz6nx1qY_Bj1pVwlmar4` | `1TEjEqFTo-ABf6pZ1iNCxFzR14dt2a44p` |
 | 04 Dados e Relatórios (pasta), Relatórios e KPIs `1NJqYhYoP4oMkrBEpd96VlTtTi6QcYNTJtuoXpFZsQPc` | `1XmWQ7zHTnqiWFq6vAEmJtBR-KYbUMoyd` |
@@ -54,6 +55,7 @@ A fonte da verdade dos textos é `docs/` neste repositório. Ao alterar um docum
 - `docs/02-plano-casa-live.md`: plano da fase de validação (primeira versão; substituído pelo plano mestre).
 - `docs/00-plano-mestre.md`: **documento-mãe** (ideia, modelo, mapa da operação, roadmap, metas, riscos).
 - `docs/10-playbook-cliente.md`: jornada do cliente E0 a E9, com checklists e modelos de mensagem.
+- `docs/11-estrutura-comercial.md`: **estrutura comercial** (preço, contrato, vendedores, canais, acompanhamento, simulação por cliente).
 - `docs/20-operacao-live.md`: estúdio, hosts, ficha de produto, roteiro, checklists, incidentes, vídeos curtos.
 - `docs/30-relatorios-kpis.md`: indicadores, relatórios D+1, semanal e mensal, painel interno.
 - `docs/40-financeiro-juridico.md`: CNPJ, acordo de sócios, custos e aportes, comissão, contratos.

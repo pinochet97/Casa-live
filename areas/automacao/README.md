@@ -13,12 +13,14 @@
 ## Status (17/11/2026)
 | # | O quê | Status | Onde |
 |---|---|---|---|
-| A1 | Formulário "Quero live" → lead no CRM → e-mail ao Felipe | Código pronto, falta o Kaio instalar | `apps-script/casa-live-automacao/A1_Lead.gs` |
-| A2 | CRM em E3 → pasta do cliente em 08 Clientes → e-mail à Duda | Código pronto, falta o Kaio instalar | `apps-script/casa-live-automacao/A2_PastaCliente.gs` |
+| A1 | Formulário "Quero live" → lead no CRM → e-mail ao Felipe | **No ar** desde 17/11 (teste real OK) | `apps-script/casa-live-automacao/A1_Lead.gs` |
+| A2 | CRM em E3 → pasta do cliente em 08 Clientes → e-mail à Duda | Instalado em 17/11, roda a cada 15 min | `apps-script/casa-live-automacao/A2_PastaCliente.gs` |
 | A9 | Custo no chat → aba Custos | No ar (sessão Financeiro) | `a9-custos.md` |
 | A3 a A8, A10 a A12 | — | Planejadas | Catálogo na planilha |
 
-**Próxima ação humana:** o Kaio segue o `instalacao.md` (cerca de 15 minutos).
+**Link do formulário "Quero live"** (para a bio da agência): https://docs.google.com/forms/d/e/1FAIpQLSd1coQ0A5I91IYz0OSptTmXAtkq5BMBrMLfG9dNLVDozkGm2Q/viewform
+
+**Próxima ação humana:** colocar o link do formulário na bio do TikTok e do Instagram da agência.
 
 ## Código
 ```

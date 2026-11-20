@@ -38,7 +38,7 @@ Tudo fica no Google Drive, na pasta **Casa Live**. Para abrir, entre em drive.go
 | 5 | **Financeiro e Jurídico** (pasta 05) | Só a seção 3 | 3 min | Como registrar gastos |
 
 ☐ Li os 5 documentos.
-✅ **Deu certo quando** você consegue responder: "O que acontece no mês 1 de um cliente?" (só comissão; a referência é 10%, mas cada cliente pode ter uma taxa diferente, que fica no CRM) e "Quais são os 3 OK antes de uma live?" (acordo assinado, fichas aprovadas, acesso testado).
+✅ **Deu certo quando** você consegue responder: "O que acontece no mês 1 de um cliente?" (teste de 30 dias só por comissão: revenda 8%, fabricante 10% a 12%, gravada no CRM; aprovado, contrato de 3 meses com gestão de R$ 3.000 + comissão) e "Quais são os 3 OK antes de uma live?" (acordo assinado, fichas aprovadas, acesso testado).
 
 Ficou alguma dúvida na leitura? Mande na conversa **Central**: "Sou a Duda, não entendi X".
 
