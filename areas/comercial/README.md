@@ -33,6 +33,17 @@ Padrão brasileiro (pt_BR, fuso de São Paulo). Nas fórmulas, o separador é `;
 ## Documentos para aprovação
 - `areas/comercial/estrutura-comercial-aprovacao-2026-11-19.pdf` (cópia no Drive, pasta 02, ID `1-uipKJViPI9YY04dC-bcc-c-p9aJajM8`): resumo da estrutura comercial para Kaio e Felipe assinarem.
 
+## Modelos (pasta `areas/comercial/modelos/` e Drive, pasta 02)
+| Modelo | Editar (Google Doc) | PDF |
+|---|---|---|
+| Proposta comercial para lojista | `18-E0oBI6T_1I5X9TO0NLZ9JVMjQLh_kO4SVTsuyYdj0` | `1AZAniaJpBp-hH1JH3GaMOFDdZDSfxBaV` |
+| Proposta e contrato do vendedor de live (minuta) | `1J269NPnJeX8UUeDs4T145rEMdCjBnGfCESEtrZHI1eE` | `1WBpqV0qq-mLzcTC4p98vlTu2HB4MVFfJ` |
+
+- Fonte: `proposta-lojista.html` e `contrato-vendedor.html` (estilo em `_estilo.css`). Ao mudar o modelo, gerar o PDF de novo e atualizar o Doc.
+- Campos em amarelo são preenchidos por cliente. Na proposta do lojista, a taxa `[X]%` segue o tipo de cliente: revenda 8%, fabricante 10% a 12%.
+- A proposta do lojista não mostra números internos (pagamento do vendedor, margem).
+- O contrato do vendedor é **minuta**: revisar com advogado e contador. Campos ainda a definir: GMV bruto ou líquido para os 2%, pagamento se a marca atrasar, live encerrada antes de 3 h, formato da nota (MEI ou RPA).
+
 ## Pendências da área
 - [ ] Responder os itens [A DEFINIR] de `docs/11-estrutura-comercial.md` (multa, vendedor, entrega de horas).
 - [ ] Advogado: revisar multa e contrato do vendedor freelancer.
