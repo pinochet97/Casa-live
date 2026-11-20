@@ -67,6 +67,9 @@ A fonte da verdade dos textos é `docs/` neste repositório. Ao alterar um docum
 Cada área tem uma sessão fixa: Central, Financeiro, Comercial e Clientes, Operação, Automação. Veja `docs/sessoes.md` e `areas/<área>/README.md`.
 **Toda sessão termina com commit + push no branch `main`**, para as outras sessões enxergarem as mudanças.
 
+## Especialista em TikTok Shop (skill)
+Toda sessão tem a skill **`tiktok-shop`** (`.claude/skills/tiktok-shop/`): lives, vídeos curtos, creators e afiliados, estratégia de conta, taxas e regras da plataforma, compliance e modelos de entrega. **Use sempre que o assunto for TikTok, live, vídeo, roteiro, gancho, creator ou afiliado.** Aprendizados reais de lives e vídeos vão para `.claude/skills/tiktok-shop/referencias/aprendizados.md`.
+
 ## Regras de trabalho
 - Responder em português.
 - **Sempre que houver uma ação humana** (abrir conversa, criar conta, clicar em algo, mandar mensagem), diga **quem** faz e dê o **passo a passo numerado**, específico (onde clicar, o que digitar). Nunca "configure X" de forma vaga.

@@ -53,3 +53,4 @@
 | 19/11/2026 | Vendedor continua podendo usar nossos produtos na loja pessoal de afiliado (comissão da loja é dele). Fixo e bônus pagos no dia 05 do mês seguinte | Sócios (sessão Comercial) |
 | 19/11/2026 | **Meta de GMV das nossas lives: R$ 120 mil por mês por cliente** (cerca de R$ 5.500 por live). Substitui a meta de R$ 100 mil | Sócios (sessão Comercial) |
 | 19/11/2026 | **Vendedor de live (versão final, substitui a meta por live):** R$ **40 por hora** (mínimo de 3 h) + **2% sobre o total vendido** na live. Sem meta por live e sem bônus de 50%. Hora extra a R$ 40/h só com aprovação da operação. Pago no dia 05 do mês seguinte | Sócios (sessão Comercial) |
+| 20/11/2026 | Claude especializado em TikTok Shop via skill `tiktok-shop` no repositório (todas as sessões usam). Fatos da plataforma verificados em 20/11/2026; conferir na Central do Vendedor antes de usar em proposta | Kaio (sessão Central) |
