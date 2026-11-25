@@ -27,3 +27,5 @@
 | 18/11/2026 | Cores de apoio por frente: Institucional = Tinta #141010, Agência = Ouro #FFC42E, Shop = Vermelho #E5262A. Fontes: Unbounded (títulos) e Inter (textos) | Felipe |
 | 18/11/2026 | A pasta "Casa Live" do Drive foi renomeada para **Zhibo**. Dentro dela foi criada a pasta **Zhibo_Marca_e_Comercial** (identidade, mídia kit, aplicações, referências), com o índice Leia-me_e_Checklist | Felipe |
 | 18/11/2026 | Editáveis em Google Slides, Docs e Sheets; logos e artes de impressão em SVG + PDF vetorial. Valores de cada cliente só na proposta comercial, nunca no mídia kit | Felipe |
+| 25/11/2026 | As lives saem da conta TikTok **@zhibo.shop** (com ponto), usando as amostras das marcas. A conta @zhiboshop (sem ponto) não é nossa. A @zhibo.shop já tem acesso de afiliado e pode fazer live com produtos | Felipe |
+| 25/11/2026 | Marcas da primeira live: **Mais Memórias** e **Brincadeira Senses**. Os 7 produtos que já estavam na vitrine (Mais Memórias e Grupo On Line Editora) ficam como plano B de afiliado. Os vídeos antigos continuam privados ("Somente eu") | Felipe |
